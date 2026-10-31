@@ -8,7 +8,7 @@ public class UIAminoacids : MonoBehaviour
 
     private void Start()
     {
-        runProgressData.ResetAminoacid();
+        runProgressData.ResetRun();
         //mover al GameManager despues
     }
     private void OnEnable()
