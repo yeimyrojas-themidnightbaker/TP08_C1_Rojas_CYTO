@@ -17,9 +17,19 @@ public class Projectile : MonoBehaviour
 
         if (hit.collider != null)
         {
-            if (hit.collider.TryGetComponent(out PlayerHealth playerHealth))
+            if (hit.collider.TryGetComponent<PlayerMarker>(out _))
             {
-                playerHealth.TakeHit(Mathf.Sign(direction.x));
+                if (hit.collider.TryGetComponent(out PlayerHealth playerHealth))
+                {
+                    playerHealth.TakeHit(Mathf.Sign(direction.x));
+                }
+            }
+            if (hit.collider.TryGetComponent<EnemyMarker>(out _))
+            {
+                if(hit.collider.TryGetComponent(out EnemyHealth enemyHealth))
+                {
+                    enemyHealth.TakeDamage(projectileData.Damage);
+                }
             }
             if (projectileData.HitVfx != null)
             {

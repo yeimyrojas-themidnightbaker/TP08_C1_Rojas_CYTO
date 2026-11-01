@@ -7,6 +7,16 @@ public class BossArenaTrigger : MonoBehaviour
     [SerializeField] private GameObject bossHealthBar;
     private bool hasStarted;
 
+    private void OnEnable()
+    {
+        biofilmBoss.OnBossDefeated += HandleBossDefeated;
+    }
+
+    private void OnDisable()
+    {
+        biofilmBoss.OnBossDefeated -= HandleBossDefeated;
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if(!other.TryGetComponent<PlayerMarker>(out _))
@@ -19,6 +29,11 @@ public class BossArenaTrigger : MonoBehaviour
         arenaDoor.SetActive(true);
         bossHealthBar.SetActive(true);
         biofilmBoss.StartFight();
+    }
+
+    private void HandleBossDefeated()
+    {
+        bossHealthBar.SetActive(false);
     }
 
 }

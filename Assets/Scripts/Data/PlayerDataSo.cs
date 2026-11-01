@@ -95,4 +95,13 @@ public class PlayerDataSo : ScriptableObject
     [SerializeField] private Color extraJumpColor = new Color(0.09f, 0.63f, 0.47f);
     public Color ExtraJumpColor => extraJumpColor;
 
+    [Header("Shoot")]
+    [SerializeField] private float shootCost = 10f;
+    public float ShootCost => shootCost;
+    [SerializeField] private float shootCooldown = 0.4f;
+    public float ShootCooldown => shootCooldown;
+    [SerializeField] private KeyCode[] shootKeys = { KeyCode.K };
+    public KeyCode[] ShootKeys => shootKeys;
+
+
 }
