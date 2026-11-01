@@ -103,5 +103,14 @@ public class PlayerDataSo : ScriptableObject
     [SerializeField] private KeyCode[] shootKeys = { KeyCode.K };
     public KeyCode[] ShootKeys => shootKeys;
 
+    [Header("Ring")]
+    [SerializeField] private float ringCost = 25;
+    public float RingCost => ringCost;
+    [SerializeField] private float ringRadius = 2.5f;
+    public float RingRadius => ringRadius;
+    [SerializeField] private int ringDamage = 2;
+    public int RingDamage => ringDamage;
+    [SerializeField] private GameObject ringVfx;
+    public GameObject RingVfx => ringVfx;
 
 }
