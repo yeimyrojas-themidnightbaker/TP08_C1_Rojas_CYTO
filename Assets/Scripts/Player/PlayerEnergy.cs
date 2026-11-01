@@ -21,7 +21,12 @@ public class PlayerEnergy : MonoBehaviour
         OnAtpChanged?.Invoke(CurrentAtp, MaxAtp);
     }
 
-    public bool CanAfford (float amount) => currentAtp >= amount;
+    public bool CanAfford (float amount)
+    {
+        if (currentAtp >= amount)
+            return true;
+        return false;
+    }    
 
     public bool TrySpend (float amount)
     {
