@@ -6,6 +6,7 @@ public class PlayerHealing : MonoBehaviour
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private PlayerEnergy playerEnergy;
     [SerializeField] private PlayerMovement playerMovement;
+    [SerializeField] private GameManager gameManager;
     private float healTimer;
     private bool isHealing;
     public bool IsHealing => isHealing;
@@ -24,6 +25,8 @@ public class PlayerHealing : MonoBehaviour
 
     private void Update()
     {
+        if (gameManager.IsPaused)
+            return;
         if (!AnyKeyHeld(playerData.HealKeys) || !playerMovement.IsGrounded || playerHealth.IsFullHealth || !playerEnergy.CanAfford(playerData.HealCost))
         {
             StopHealing();

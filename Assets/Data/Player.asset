@@ -46,6 +46,6 @@ MonoBehaviour:
   shootCooldown: 0.4
   shootKeys: 6b000000
   ringCost: 25
-  ringRadius: 6
-  ringDamage: 3
+  ringRadius: 4
+  ringDamage: 2
   ringVfx: {fileID: 8094843478169940566, guid: 1af64f2fa9078f54dbf449ac6839bd2a, type: 3}

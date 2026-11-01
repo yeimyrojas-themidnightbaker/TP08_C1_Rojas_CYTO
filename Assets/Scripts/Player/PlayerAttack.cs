@@ -8,6 +8,7 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private PlayerEnergy playerEnergy;
     [SerializeField] private PlayerPowerUps playerPowerUps;
+    [SerializeField] private GameManager gameManager;
 
     [Header("Attack Points")]
     [SerializeField] private Transform attackPointSide;
@@ -29,6 +30,8 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
+        if (gameManager.IsPaused)
+            return;
         attackTimer -= Time.deltaTime;
         if (AnyKeyDown(playerData.AttackKeys) && attackTimer <= 0)
         {

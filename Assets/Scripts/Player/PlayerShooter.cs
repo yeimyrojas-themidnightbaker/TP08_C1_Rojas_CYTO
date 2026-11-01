@@ -8,10 +8,13 @@ public class PlayerShooter : MonoBehaviour
     [SerializeField] private Projectile projectilePrefab;
     [SerializeField] private Transform firePoint;
     [SerializeField] private LayerMask enemyLayer;
+    [SerializeField] private GameManager gameManager;
     private float shootTimer;
 
     private void Update()
     {
+        if (gameManager.IsPaused)
+            return;
         if (shootTimer > 0)
         {
             shootTimer -= Time.deltaTime;

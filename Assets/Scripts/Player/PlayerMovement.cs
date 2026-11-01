@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private PlayerHealing playerHealing;
     [SerializeField] private PlayerPowerUps playerPowerUps;
+    [SerializeField] private GameManager gameManager;
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
@@ -46,6 +47,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (gameManager.IsPaused)
+            return;
         horizontalInput = 0f;
         if (AnyKeyHeld(playerData.LeftKeys))
         {
