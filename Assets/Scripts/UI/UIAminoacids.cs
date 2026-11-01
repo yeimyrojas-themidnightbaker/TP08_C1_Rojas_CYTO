@@ -6,11 +6,6 @@ public class UIAminoacids : MonoBehaviour
     [SerializeField] private RunProgressSo runProgressData;
     [SerializeField] private TMP_Text aminoacidText;
 
-    private void Start()
-    {
-        runProgressData.ResetRun();
-        //mover al GameManager despues
-    }
     private void OnEnable()
     {
         runProgressData.OnAminoacidChanged += HandleAminoacidHUD;

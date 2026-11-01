@@ -31,3 +31,21 @@ MonoBehaviour:
   blinkInterval: 0.1
   knockBackForce: {x: 6, y: 4}
   knockBackDuration: 0.2
+  maxAtp: 100
+  atpPerHit: 8
+  atpPerKill: 20
+  healCost: 33
+  healDuration: 1
+  healKeys: 6c000000
+  damageBoostMultiplier: 1.5
+  extraJumps: 1
+  damageBoostColor: {r: 0.71, g: 0.18, b: 0.31, a: 1}
+  shieldColor: {r: 0.09, g: 0.93, b: 0.88, a: 1}
+  extraJumpColor: {r: 0.09, g: 0.63, b: 0.47, a: 1}
+  shootCost: 10
+  shootCooldown: 0.4
+  shootKeys: 6b000000
+  ringCost: 25
+  ringRadius: 6
+  ringDamage: 3
+  ringVfx: {fileID: 8094843478169940566, guid: 1af64f2fa9078f54dbf449ac6839bd2a, type: 3}
