@@ -18,4 +18,4 @@ MonoBehaviour:
   hitLayer:
     serializedVersion: 2
     m_Bits: 640
-  hitVfx: {fileID: 0}
+  hitVfx: {fileID: 1667758472335263794, guid: 66e626f0e46534b43b798e2940d20d6f, type: 3}
