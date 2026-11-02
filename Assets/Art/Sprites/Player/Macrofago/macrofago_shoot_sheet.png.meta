@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 3496cffb5d1ac8b44ba1e461b857915c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8398224854130225177
+    second: macrofago_shoot_sheet_0
+  - first:
+      213: -6209931623671290131
+    second: macrofago_shoot_sheet_1
+  - first:
+      213: -6894885380138163646
+    second: macrofago_shoot_sheet_2
+  - first:
+      213: -5102049439896947533
+    second: macrofago_shoot_sheet_3
+  - first:
+      213: -8590371626668987816
+    second: macrofago_shoot_sheet_4
+  - first:
+      213: -6933562345287300606
+    second: macrofago_shoot_sheet_5
+  - first:
+      213: -4326270387017957067
+    second: macrofago_shoot_sheet_6
+  - first:
+      213: -7981040573437516602
+    second: macrofago_shoot_sheet_7
+  - first:
+      213: -7040606813959183165
+    second: macrofago_shoot_sheet_8
+  - first:
+      213: 7994793556995807151
+    second: macrofago_shoot_sheet_9
+  - first:
+      213: 1621067351504152573
+    second: macrofago_shoot_sheet_10
+  - first:
+      213: 5071412975209826410
+    second: macrofago_shoot_sheet_11
+  - first:
+      213: 7153220629265961928
+    second: macrofago_shoot_sheet_12
+  - first:
+      213: -7985603807793177821
+    second: macrofago_shoot_sheet_13
+  - first:
+      213: 7511219719540051552
+    second: macrofago_shoot_sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f946520d7c8470800000000000000
+      internalID: 8398224854130225177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ab930714e1d9a0800000000000000
+      internalID: -6209931623671290131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242a4d507427050a0800000000000000
+      internalID: -6894885380138163646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43674f011e139b0800000000000000
+      internalID: -5102049439896947533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aeccfe48ed8c880800000000000000
+      internalID: -8590371626668987816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a402558c907cf90800000000000000
+      internalID: -6933562345287300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531c08b210006f3c0800000000000000
+      internalID: -4326270387017957067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e64242e5ad3190800000000000000
+      internalID: -7981040573437516602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_shoot_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a4cac76dba4e90800000000000000
+      internalID: -7040606813959183165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cff5f2b65702b3c48917ca0a7968caa9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":290.0,"y":262.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5275862216949463,"y":0.1221374049782753},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      macrofago_shoot_sheet_0: 8398224854130225177
+      macrofago_shoot_sheet_1: -6209931623671290131
+      macrofago_shoot_sheet_2: -6894885380138163646
+      macrofago_shoot_sheet_3: -5102049439896947533
+      macrofago_shoot_sheet_4: -8590371626668987816
+      macrofago_shoot_sheet_5: -6933562345287300606
+      macrofago_shoot_sheet_6: -4326270387017957067
+      macrofago_shoot_sheet_7: -7981040573437516602
+      macrofago_shoot_sheet_8: -7040606813959183165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

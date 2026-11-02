@@ -24,7 +24,7 @@ MonoBehaviour:
   upKeys: 7700000011010000
   downKeys: 7300000012010000
   attackDamage: 1
-  attackSize: {x: 1.6, y: 0.6}
+  attackSize: {x: 2.2, y: 0.6}
   attackCoolDown: 0.35
   maxHealth: 5
   invulnerabilityDuration: 1

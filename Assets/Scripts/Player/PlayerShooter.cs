@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PlayerShooter : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class PlayerShooter : MonoBehaviour
     [SerializeField] private GameManager gameManager;
     private float shootTimer;
 
+    public event UnityAction OnShoot;
+    public event UnityAction OnRing;
+
     private void Update()
     {
         if (gameManager.IsPaused)
@@ -21,7 +25,7 @@ public class PlayerShooter : MonoBehaviour
         }
         if (!AnyKeyDown(playerData.ShootKeys) || shootTimer > 0)
             return;
-        if(AnyKeyHeld(playerData.UpKeys))
+        if (AnyKeyHeld(playerData.UpKeys))
         {
             if (!playerEnergy.TrySpend(playerData.RingCost))
                 return;
@@ -34,7 +38,7 @@ public class PlayerShooter : MonoBehaviour
                 return;
             Shoot();
         }
-        
+
         shootTimer = playerData.ShootCooldown;
     }
 
@@ -44,22 +48,24 @@ public class PlayerShooter : MonoBehaviour
         Vector3 spawnPos = transform.position + new Vector3(firePoint.localPosition.x * facing, firePoint.localPosition.y, 0f);
         Projectile spawnProjectile = Instantiate(projectilePrefab, spawnPos, Quaternion.identity);
         spawnProjectile.Init(new Vector2(facing, 0f));
+        OnShoot?.Invoke();
     }
 
     private void ReleaseRing()
     {
         Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, playerData.RingRadius, enemyLayer);
-        foreach(Collider2D hit in hits)
+        foreach (Collider2D hit in hits)
         {
-            if(hit.TryGetComponent<EnemyHealth>(out EnemyHealth enemyHealth))
+            if (hit.TryGetComponent<EnemyHealth>(out EnemyHealth enemyHealth))
             {
                 enemyHealth.TakeDamage(playerData.RingDamage);
             }
         }
-            if(playerData.RingVfx != null)
-            {
-                Instantiate(playerData.RingVfx, transform.position, Quaternion.identity);
-            }
+        if (playerData.RingVfx != null)
+        {
+            Instantiate(playerData.RingVfx, transform.position, Quaternion.identity);
+        }
+        OnRing?.Invoke();
     }
 
     private void OnDrawGizmosSelected()

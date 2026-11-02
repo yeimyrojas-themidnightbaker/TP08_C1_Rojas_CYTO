@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private Transform attackPointUp;
     [SerializeField] private Transform attackPointDown;
     [SerializeField] private LayerMask enemyLayer;
+
+    public event UnityAction<AttackDirection> OnAttack;
 
     private float attackTimer;
 
@@ -43,22 +46,27 @@ public class PlayerAttack : MonoBehaviour
     private void Attack()
     {
         Vector2 center;
+        AttackDirection direction;
         Vector2 size = playerData.AttackSize;
         if (AnyKeyHeld(playerData.UpKeys))
         {
             center = attackPointUp.position;
             size = new Vector2(size.y, size.x);
+            direction = AttackDirection.Up;
         }
         else if (AnyKeyHeld(playerData.DownKeys) && !playerMovement.IsGrounded)
         {
             center = attackPointDown.position;
             size = new Vector2(size.y, size.x);
+            direction = AttackDirection.Down;
         }
         else
         {
             Vector2 side = attackPointSide.localPosition;
             center = (Vector2)transform.position + new Vector2(side.x * playerMovement.FacingDirection, side.y);
+            direction = AttackDirection.Side;
         }
+        OnAttack?.Invoke(direction);
         Collider2D[] hits = Physics2D.OverlapBoxAll(center, size, 0f, enemyLayer);
         foreach (Collider2D hit in hits)
         {

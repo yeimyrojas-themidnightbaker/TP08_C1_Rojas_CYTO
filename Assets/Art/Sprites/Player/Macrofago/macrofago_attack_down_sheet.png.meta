@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 6c4279f7b27413a41920f0dc589de475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 532245465427648448
+    second: macrofago_attack_down_sheet_0
+  - first:
+      213: -576901327345159937
+    second: macrofago_attack_down_sheet_1
+  - first:
+      213: -624616659325193618
+    second: macrofago_attack_down_sheet_2
+  - first:
+      213: -7214713424649446205
+    second: macrofago_attack_down_sheet_3
+  - first:
+      213: 7245862313013677754
+    second: macrofago_attack_down_sheet_4
+  - first:
+      213: -2808932066616281383
+    second: macrofago_attack_down_sheet_5
+  - first:
+      213: -4360222026509538757
+    second: macrofago_attack_down_sheet_6
+  - first:
+      213: 6253349867649794583
+    second: macrofago_attack_down_sheet_7
+  - first:
+      213: 7556427674496601391
+    second: macrofago_attack_down_sheet_8
+  - first:
+      213: -4183180060607170737
+    second: macrofago_attack_down_sheet_9
+  - first:
+      213: 8930044298110482307
+    second: macrofago_attack_down_sheet_10
+  - first:
+      213: 7656590321855449997
+    second: macrofago_attack_down_sheet_11
+  - first:
+      213: 8024264312098431738
+    second: macrofago_attack_down_sheet_12
+  - first:
+      213: -8162487124021774243
+    second: macrofago_attack_down_sheet_13
+  - first:
+      213: -6583314138523507516
+    second: macrofago_attack_down_sheet_14
+  - first:
+      213: -1500729396163984618
+    second: macrofago_attack_down_sheet_15
+  - first:
+      213: 3208618786059267111
+    second: macrofago_attack_down_sheet_16
+  - first:
+      213: 6778175543415376498
+    second: macrofago_attack_down_sheet_17
+  - first:
+      213: 6122232385480537636
+    second: macrofago_attack_down_sheet_18
+  - first:
+      213: -548555220613979961
+    second: macrofago_attack_down_sheet_19
+  - first:
+      213: -4159391271962283415
+    second: macrofago_attack_down_sheet_20
+  - first:
+      213: 3030654356996597917
+    second: macrofago_attack_down_sheet_21
+  - first:
+      213: 5062614230099156925
+    second: macrofago_attack_down_sheet_22
+  - first:
+      213: 7221287212301342041
+    second: macrofago_attack_down_sheet_23
+  - first:
+      213: 2611890033349479808
+    second: macrofago_attack_down_sheet_24
+  - first:
+      213: 7718910162980167924
+    second: macrofago_attack_down_sheet_25
+  - first:
+      213: 4045432550389592665
+    second: macrofago_attack_down_sheet_26
+  - first:
+      213: 9004985218367933161
+    second: macrofago_attack_down_sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf902c4e6ae26700800000000000000
+      internalID: 532245465427648448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f321ac4f6ef7f0800000000000000
+      internalID: -576901327345159937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62712c257ae457f0800000000000000
+      internalID: -624616659325193618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc178f8d5030eb90800000000000000
+      internalID: -7214713424649446205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe029a22697e8460800000000000000
+      internalID: 7245862313013677754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f123fa2ba409d0800000000000000
+      internalID: -2808932066616281383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aa0181b216d73c0800000000000000
+      internalID: -4360222026509538757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712808da29c58c650800000000000000
+      internalID: 6253349867649794583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d0d4d2fe2ddd860800000000000000
+      internalID: 7556427674496601391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f473308f5eb52f5c0800000000000000
+      internalID: -4183180060607170737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387b069c9f3edeb70800000000000000
+      internalID: 8930044298110482307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b43e4d45ca14a60800000000000000
+      internalID: 7656590321855449997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a872a0e9eb5f60800000000000000
+      internalID: 8024264312098431738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587bf8153509be80800000000000000
+      internalID: -8162487124021774243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_attack_down_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 300
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ef70cbae53a4a0800000000000000
+      internalID: -6583314138523507516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff1fdf2d84104b341b44613249656ed4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":300.0,"y":520.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5099999904632568,"y":0.557692289352417},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      macrofago_attack_down_sheet_0: 532245465427648448
+      macrofago_attack_down_sheet_1: -576901327345159937
+      macrofago_attack_down_sheet_10: 8930044298110482307
+      macrofago_attack_down_sheet_11: 7656590321855449997
+      macrofago_attack_down_sheet_12: 8024264312098431738
+      macrofago_attack_down_sheet_13: -8162487124021774243
+      macrofago_attack_down_sheet_14: -6583314138523507516
+      macrofago_attack_down_sheet_2: -624616659325193618
+      macrofago_attack_down_sheet_3: -7214713424649446205
+      macrofago_attack_down_sheet_4: 7245862313013677754
+      macrofago_attack_down_sheet_5: -2808932066616281383
+      macrofago_attack_down_sheet_6: -4360222026509538757
+      macrofago_attack_down_sheet_7: 6253349867649794583
+      macrofago_attack_down_sheet_8: 7556427674496601391
+      macrofago_attack_down_sheet_9: -4183180060607170737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

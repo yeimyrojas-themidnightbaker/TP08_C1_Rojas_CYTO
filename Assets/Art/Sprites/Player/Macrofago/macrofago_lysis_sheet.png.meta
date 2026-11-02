@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: b9fcba0110fe6214e87da42cb438b394
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9124106097889566356
+    second: macrofago_lysis_sheet_0
+  - first:
+      213: 5403351234884502092
+    second: macrofago_lysis_sheet_1
+  - first:
+      213: -6081396237258034762
+    second: macrofago_lysis_sheet_2
+  - first:
+      213: 2778463496685302542
+    second: macrofago_lysis_sheet_3
+  - first:
+      213: -6386665287734955183
+    second: macrofago_lysis_sheet_4
+  - first:
+      213: -8590747937466034240
+    second: macrofago_lysis_sheet_5
+  - first:
+      213: -8422518891062674696
+    second: macrofago_lysis_sheet_6
+  - first:
+      213: 8476773237220378581
+    second: macrofago_lysis_sheet_7
+  - first:
+      213: -2295246759504793847
+    second: macrofago_lysis_sheet_8
+  - first:
+      213: 6194275946468666654
+    second: macrofago_lysis_sheet_9
+  - first:
+      213: -3075124827971839942
+    second: macrofago_lysis_sheet_10
+  - first:
+      213: -7435428587881890935
+    second: macrofago_lysis_sheet_11
+  - first:
+      213: 52251027065961994
+    second: macrofago_lysis_sheet_12
+  - first:
+      213: 9157946794234632027
+    second: macrofago_lysis_sheet_13
+  - first:
+      213: 1888161913142369663
+    second: macrofago_lysis_sheet_14
+  - first:
+      213: -8880658523811199477
+    second: macrofago_lysis_sheet_15
+  - first:
+      213: 3791304390270762844
+    second: macrofago_lysis_sheet_16
+  - first:
+      213: -7666796920280171676
+    second: macrofago_lysis_sheet_17
+  - first:
+      213: -1049172921567840483
+    second: macrofago_lysis_sheet_18
+  - first:
+      213: 8049901423425423900
+    second: macrofago_lysis_sheet_19
+  - first:
+      213: -4453185972799843148
+    second: macrofago_lysis_sheet_20
+  - first:
+      213: -2672573475097549806
+    second: macrofago_lysis_sheet_21
+  - first:
+      213: 1640319426969771292
+    second: macrofago_lysis_sheet_22
+  - first:
+      213: 1112027986079686224
+    second: macrofago_lysis_sheet_23
+  - first:
+      213: 6829832328082294290
+    second: macrofago_lysis_sheet_24
+  - first:
+      213: -8901271341709453498
+    second: macrofago_lysis_sheet_25
+  - first:
+      213: -2443078683956884648
+    second: macrofago_lysis_sheet_26
+  - first:
+      213: -6110498488527082112
+    second: macrofago_lysis_sheet_27
+  - first:
+      213: 6407261319712327716
+    second: macrofago_lysis_sheet_28
+  - first:
+      213: -7851625312750527976
+    second: macrofago_lysis_sheet_29
+  - first:
+      213: 8717455725751516162
+    second: macrofago_lysis_sheet_30
+  - first:
+      213: 6459663004680016441
+    second: macrofago_lysis_sheet_31
+  - first:
+      213: 5668225280162074446
+    second: macrofago_lysis_sheet_32
+  - first:
+      213: 8218319965253632170
+    second: macrofago_lysis_sheet_33
+  - first:
+      213: -7834819477943284935
+    second: macrofago_lysis_sheet_34
+  - first:
+      213: -5981434342398660347
+    second: macrofago_lysis_sheet_35
+  - first:
+      213: 7762060486371599058
+    second: macrofago_lysis_sheet_36
+  - first:
+      213: -6715287286650743496
+    second: macrofago_lysis_sheet_37
+  - first:
+      213: 5315619682968406682
+    second: macrofago_lysis_sheet_38
+  - first:
+      213: -8872086370039266377
+    second: macrofago_lysis_sheet_39
+  - first:
+      213: 6933382404645004779
+    second: macrofago_lysis_sheet_40
+  - first:
+      213: -4570310547167776673
+    second: macrofago_lysis_sheet_41
+  - first:
+      213: -6363051931415948160
+    second: macrofago_lysis_sheet_42
+  - first:
+      213: -9118050959966523011
+    second: macrofago_lysis_sheet_43
+  - first:
+      213: -5420985077233170632
+    second: macrofago_lysis_sheet_44
+  - first:
+      213: -8878191279284816018
+    second: macrofago_lysis_sheet_45
+  - first:
+      213: -3972508987125219184
+    second: macrofago_lysis_sheet_46
+  - first:
+      213: 7042934223726151489
+    second: macrofago_lysis_sheet_47
+  - first:
+      213: 6633454261731077017
+    second: macrofago_lysis_sheet_48
+  - first:
+      213: 8740284615850582904
+    second: macrofago_lysis_sheet_49
+  - first:
+      213: -3763996000025930685
+    second: macrofago_lysis_sheet_50
+  - first:
+      213: -7100192326720102270
+    second: macrofago_lysis_sheet_51
+  - first:
+      213: -4382109181795902499
+    second: macrofago_lysis_sheet_52
+  - first:
+      213: -3711239750779792461
+    second: macrofago_lysis_sheet_53
+  - first:
+      213: -2743788340042593209
+    second: macrofago_lysis_sheet_54
+  - first:
+      213: -3665968490521298327
+    second: macrofago_lysis_sheet_55
+  - first:
+      213: 8562523275937327385
+    second: macrofago_lysis_sheet_56
+  - first:
+      213: 6293234545178851346
+    second: macrofago_lysis_sheet_57
+  - first:
+      213: -1367092804600970293
+    second: macrofago_lysis_sheet_58
+  - first:
+      213: 3699325325235191468
+    second: macrofago_lysis_sheet_59
+  - first:
+      213: -6388115381851589586
+    second: macrofago_lysis_sheet_60
+  - first:
+      213: -6676689372284556159
+    second: macrofago_lysis_sheet_61
+  - first:
+      213: -8610008327141464709
+    second: macrofago_lysis_sheet_62
+  - first:
+      213: -2584343335248609474
+    second: macrofago_lysis_sheet_63
+  - first:
+      213: 8230003707343254534
+    second: macrofago_lysis_sheet_64
+  - first:
+      213: 6040528845129923778
+    second: macrofago_lysis_sheet_65
+  - first:
+      213: 2407599713442240572
+    second: macrofago_lysis_sheet_66
+  - first:
+      213: -6279313057705840371
+    second: macrofago_lysis_sheet_67
+  - first:
+      213: -8907504060125278299
+    second: macrofago_lysis_sheet_68
+  - first:
+      213: 4105880074745727716
+    second: macrofago_lysis_sheet_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61215678d9a06180800000000000000
+      internalID: -9124106097889566356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4285f7e15f8cfa40800000000000000
+      internalID: 5403351234884502092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b176d3c75a8a9ba0800000000000000
+      internalID: -6081396237258034762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03315d44d51f8620800000000000000
+      internalID: 2778463496685302542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1537d3142c10e57a0800000000000000
+      internalID: -6386665287734955183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7da60444887c880800000000000000
+      internalID: -8590747937466034240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa313861b33d1b80800000000000000
+      internalID: -8422518891062674696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d70f0ee85c83a570800000000000000
+      internalID: 8476773237220378581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fa9d3ab35a520e0800000000000000
+      internalID: -2295246759504793847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de206972d76f550800000000000000
+      internalID: 6194275946468666654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3811ccf246f255d0800000000000000
+      internalID: -3075124827971839942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf38a081d00d890800000000000000
+      internalID: -7435428587881890935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7a634802a9b000800000000000000
+      internalID: 52251027065961994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b575846a610971f70800000000000000
+      internalID: 9157946794234632027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dd54f8149143a10800000000000000
+      internalID: 1888161913142369663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0640b4df1091c480800000000000000
+      internalID: -8880658523811199477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fb779714b6d9430800000000000000
+      internalID: 3791304390270762844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b34a942d01a9590800000000000000
+      internalID: -7666796920280171676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d177dfd59c69071f0800000000000000
+      internalID: -1049172921567840483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0f24c1bef6bf60800000000000000
+      internalID: 8049901423425423900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b45384a3fa1332c0800000000000000
+      internalID: -4453185972799843148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214eda4959c19ead0800000000000000
+      internalID: -2672573475097549806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d94baf3d593c610800000000000000
+      internalID: 1640319426969771292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macrofago_lysis_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 6670
+        y: 0
+        width: 290
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5275862, y: 0.122137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9292cf87be6f00800000000000000
+      internalID: 1112027986079686224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2cb3ce1794df2844986d4bec037ae605
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":290.0,"y":262.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5275862216949463,"y":0.1221374049782753},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      macrofago_lysis_sheet_0: -9124106097889566356
+      macrofago_lysis_sheet_1: 5403351234884502092
+      macrofago_lysis_sheet_10: -3075124827971839942
+      macrofago_lysis_sheet_11: -7435428587881890935
+      macrofago_lysis_sheet_12: 52251027065961994
+      macrofago_lysis_sheet_13: 9157946794234632027
+      macrofago_lysis_sheet_14: 1888161913142369663
+      macrofago_lysis_sheet_15: -8880658523811199477
+      macrofago_lysis_sheet_16: 3791304390270762844
+      macrofago_lysis_sheet_17: -7666796920280171676
+      macrofago_lysis_sheet_18: -1049172921567840483
+      macrofago_lysis_sheet_19: 8049901423425423900
+      macrofago_lysis_sheet_2: -6081396237258034762
+      macrofago_lysis_sheet_20: -4453185972799843148
+      macrofago_lysis_sheet_21: -2672573475097549806
+      macrofago_lysis_sheet_22: 1640319426969771292
+      macrofago_lysis_sheet_23: 1112027986079686224
+      macrofago_lysis_sheet_3: 2778463496685302542
+      macrofago_lysis_sheet_4: -6386665287734955183
+      macrofago_lysis_sheet_5: -8590747937466034240
+      macrofago_lysis_sheet_6: -8422518891062674696
+      macrofago_lysis_sheet_7: 8476773237220378581
+      macrofago_lysis_sheet_8: -2295246759504793847
+      macrofago_lysis_sheet_9: 6194275946468666654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
