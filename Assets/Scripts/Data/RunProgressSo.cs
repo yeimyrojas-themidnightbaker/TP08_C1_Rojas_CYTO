@@ -27,6 +27,11 @@ public class RunProgressSo : ScriptableObject
         currentScore += score;
         OnScoreChanged?.Invoke(CurrentScore);
     }
+    public void TakeAntigen()
+    {
+        hasAntigen = true;
+        OnAntigenChanged?.Invoke(HasAntigen);
+    }
 
     public void ResetAminoacid()
     {
@@ -34,10 +39,10 @@ public class RunProgressSo : ScriptableObject
         OnAminoacidChanged?.Invoke(CurrentAminoacid);
     }
 
-    public void TakeAntigen()
+    public void ResetScore()
     {
-        hasAntigen = true;
-        OnAntigenChanged?.Invoke(HasAntigen);
+        currentScore = 0;
+        OnScoreChanged?.Invoke(CurrentScore);
     }
 
     public void ResetAntigen()
@@ -49,8 +54,7 @@ public class RunProgressSo : ScriptableObject
     public void ResetRun()
     {
         ResetAminoacid();
+        ResetScore();
         ResetAntigen();
     }
-
-    //M15 mover al GameManager
 }

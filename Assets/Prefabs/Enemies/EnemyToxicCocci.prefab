@@ -210,6 +210,7 @@ GameObject:
   - component: {fileID: 2237321927993049461}
   - component: {fileID: 9109942366718439563}
   - component: {fileID: 2146610214747039055}
+  - component: {fileID: 4561981084110854536}
   - component: {fileID: 2268744914310296969}
   m_Layer: 7
   m_Name: EnemyToxicCocci
@@ -295,6 +296,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyLoot
   enemyHealth: {fileID: 1236736948482213012}
   enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
+--- !u!114 &4561981084110854536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3336463136770210205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc34d7ed994316c4b9fec53477a3f448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyScore
+  enemyHealth: {fileID: 1236736948482213012}
+  enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
+  runProgressSo: {fileID: 11400000, guid: ca6fbf48124e8814da0b7c8401b9a007, type: 2}
 --- !u!61 &2268744914310296969
 BoxCollider2D:
   m_ObjectHideFlags: 0

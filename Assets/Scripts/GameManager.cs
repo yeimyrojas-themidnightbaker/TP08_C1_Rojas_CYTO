@@ -7,8 +7,14 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameResultsSo gameResultsData;
     [SerializeField] private GameDataSo gameData;
     [SerializeField] private RunProgressSo runProgressData;
+    [SerializeField] private LevelDataSo levelData;
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private BiofilmBoss biofilmBoss;
+    [SerializeField] private SaveDataSo saveData;
+
+    private float elapsedTime;
+    public float ElapsedTime => elapsedTime;
+
     private bool gameEnded;
     public bool GameEnded => gameEnded;
 
@@ -19,6 +25,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         runProgressData.ResetRun();
+        saveData.Load();
     }
 
     private void OnEnable()
@@ -41,6 +48,7 @@ public class GameManager : MonoBehaviour
         {
             SetPaused(!isPaused);
         }
+        elapsedTime += Time.deltaTime;
     }
 
     private void HandlePlayerDied()
@@ -57,7 +65,17 @@ public class GameManager : MonoBehaviour
     {
         if (gameEnded) return;
         gameEnded = true;
-        gameResultsData.SetResult(won);
+        int timeBonus = 0;
+        int capsuleBonus = 0;
+        if(won)
+        {
+            timeBonus = Mathf.RoundToInt(Mathf.Max(0f, levelData.ReferenceTime - elapsedTime) * levelData.PointsPerSecond);
+            capsuleBonus = playerHealth.CurrentHealth * Mathf.RoundToInt(levelData.PointsPerCapsule);
+            runProgressData.AddScore(timeBonus + capsuleBonus);
+        }
+        saveData.CommitRun(runProgressData.CurrentScore, runProgressData.CurrentAminoacid, elapsedTime, won);
+        gameResultsData.SetResult(won, elapsedTime, timeBonus, capsuleBonus);
+
         Invoke(nameof(LoadGameOver), gameData.EndDelay);
 
     }

@@ -4,9 +4,19 @@ public class GameResultsSo : ScriptableObject
 {
     private bool won;
     public bool Won => won;
+    float elapsedTime;
+    public float ElapsedTime => elapsedTime;
+    int timeBonusPoints;
+    public int TimeBonusPoints => timeBonusPoints;
 
-    public void SetResult(bool hasWon)
+    int capsuleBonusPoints;
+    public int CapsuleBonusPoints => capsuleBonusPoints;
+    public void SetResult(bool hasWon, float time, int timeBonus, int capsuleBonus)
     {
         won = hasWon;
+        elapsedTime = time;
+        timeBonusPoints = timeBonus;
+        capsuleBonusPoints = capsuleBonus;
+
     }
 }

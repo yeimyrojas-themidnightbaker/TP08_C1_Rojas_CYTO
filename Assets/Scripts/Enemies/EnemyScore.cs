@@ -11,6 +11,10 @@ public class EnemyScore : MonoBehaviour
         enemyHealth.OnDied += HandleDied;
     }
 
+    private void OnDisable()
+    {
+        enemyHealth.OnDied -= HandleDied;
+    }
     private void HandleDied()
     {
         runProgressSo.AddScore(enemyData.Score);    

@@ -7,9 +7,10 @@ public class UIGameOverMenu : MonoBehaviour
 {
     [SerializeField] private GameResultsSo gameResultsData;
     [SerializeField] private RunProgressSo runProgressData;
+    [SerializeField] private SaveDataSo saveData;
     [SerializeField] private Image backgroundImage;
     [SerializeField] private TMP_Text winText;
-    [SerializeField] private TMP_Text aminoacidText;
+    [SerializeField] private TMP_Text scoreText;
 
     [SerializeField] private Button btnRetry;
     [SerializeField] private Button btnMenu;
@@ -30,7 +31,7 @@ btnExit.gameObject.SetActive(false);
             backgroundImage.color = Color.black;
             winText.text = "El macrofago cayo";
         }
-        aminoacidText.text = "Aminiacidos x" + runProgressData.CurrentAminoacid;
+        ShowScore();
     }
 
     private void OnEnable()
@@ -46,6 +47,30 @@ btnExit.gameObject.SetActive(false);
         btnExit.onClick.RemoveListener(OnBtnExitClicked);
     }
 
+    private void ShowScore()
+    {
+        string text = "Score: " + runProgressData.CurrentScore;
+        text += "\nRecord " + saveData.BestScore;
+        text += "\nAminoacids " + runProgressData.CurrentAminoacid;
+        if(saveData.IsNewRecord)
+        {
+            text += "\n Nuevo record";
+        }
+        if(gameResultsData.Won)
+        {
+            text += "\nTime " + FormatTime(gameResultsData.ElapsedTime);
+            text += "\nTime Bonus " + gameResultsData.TimeBonusPoints;
+            text += "\nCapsuleBonus " + gameResultsData.CapsuleBonusPoints;
+        }
+        scoreText.text = text;
+    }
+
+    private string FormatTime(float seconds)
+    {
+        int minutes = (int)(seconds / 60f);
+        int secs = (int)(seconds % 60);
+        return minutes.ToString("00") + ":" + secs.ToString("00");
+    }
     private void OnBtnRetryClicked()
     {
         SceneManager.LoadScene(SceneNames.Gameplay);
