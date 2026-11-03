@@ -67,6 +67,9 @@ public class PlayerAttack : MonoBehaviour
             direction = AttackDirection.Side;
         }
         OnAttack?.Invoke(direction);
+
+        //comportamiento de ataque a enemigo
+
         Collider2D[] hits = Physics2D.OverlapBoxAll(center, size, 0f, enemyLayer);
         foreach (Collider2D hit in hits)
         {
