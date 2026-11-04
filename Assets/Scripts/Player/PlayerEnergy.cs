@@ -4,14 +4,23 @@ using UnityEngine.Events;
 public class PlayerEnergy : MonoBehaviour
 {
     [SerializeField] private PlayerDataSo playerData;
+    [SerializeField] private ShopItemSo startEnergyUpgrade;
+    [SerializeField] private SaveDataSo saveData;
     private float currentAtp;
     public float CurrentAtp => currentAtp;
-    public float MaxAtp => playerData.MaxAtp;
+    private float maxAtp;
+    public float MaxAtp => maxAtp;
+
     public event UnityAction<float, float> OnAtpChanged;
 
     private void Start()
     {
+        maxAtp = playerData.MaxAtp;
         currentAtp = 0;
+        if(saveData.HasUpgrade(startEnergyUpgrade.UpgradeType))
+        {
+            currentAtp = startEnergyUpgrade.UpgradeValue;
+        }
         OnAtpChanged?.Invoke(CurrentAtp, MaxAtp);
     }
     

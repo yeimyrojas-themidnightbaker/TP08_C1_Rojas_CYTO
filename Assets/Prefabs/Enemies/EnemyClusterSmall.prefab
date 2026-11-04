@@ -520,6 +520,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyLoot
   enemyHealth: {fileID: 69153790601259993}
   enemyData: {fileID: 11400000, guid: 05ecf4152ba36854d950d62affd4739d, type: 2}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
+  lootDropUpgrade: {fileID: 11400000, guid: b0c0496f797f7d54ba83c694abdfe43e, type: 2}
 --- !u!114 &5997135578987827230
 MonoBehaviour:
   m_ObjectHideFlags: 0

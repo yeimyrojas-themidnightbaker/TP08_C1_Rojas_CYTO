@@ -13868,6 +13868,8 @@ MonoBehaviour:
   playerEnergy: {fileID: 1761077452}
   playerPowerUps: {fileID: 1761077454}
   gameManager: {fileID: 325456109}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
+  attackDamageUpgrade: {fileID: 11400000, guid: c649738600e98104eb47b1576109f628, type: 2}
   attackPointSide: {fileID: 1902084806}
   attackPointUp: {fileID: 1157334825}
   attackPointDown: {fileID: 492183365}
@@ -13888,6 +13890,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   playerData: {fileID: 11400000, guid: 6903f2ce12afa25439c84255173caf0d, type: 2}
   playerPowerUps: {fileID: 1761077454}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
+  maxHealthUpgrade: {fileID: 11400000, guid: 16d1af3f792ed43419fd75e5f8479af0, type: 2}
 --- !u!114 &1761077450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13933,6 +13937,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerEnergy
   playerData: {fileID: 11400000, guid: 6903f2ce12afa25439c84255173caf0d, type: 2}
+  maxEnergyUpgrade: {fileID: 11400000, guid: 9c3255bcea362ca479c291731851d38b, type: 2}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
 --- !u!114 &1761077453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14776,6 +14782,18 @@ PrefabInstance:
       propertyPath: playerPowerUps
       value: 
       objectReference: {fileID: 1761077454}
+    - target: {fileID: 476915524888159028, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 476915524888159028, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 476915524888159028, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1204467983406958859, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0

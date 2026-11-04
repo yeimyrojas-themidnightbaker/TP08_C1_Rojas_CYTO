@@ -5,13 +5,18 @@ public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] private PlayerDataSo playerData;
     [SerializeField] private PlayerPowerUps playerPowerUps;
+    [SerializeField] private SaveDataSo saveData;
+    [SerializeField] private ShopItemSo maxHealthUpgrade;
+
 
     private int currentHealth;
     public int CurrentHealth => currentHealth;
     private float invulnerabilityTimer;
     public bool IsInvulnerable => invulnerabilityTimer > 0; //responde a la necesidad de que no todo baje de un solo bajon
     private bool isDead;
-    public bool IsFullHealth => currentHealth >= playerData.MaxHealth;
+    public bool IsFullHealth => currentHealth >= maxHealth;
+    private int maxHealth;
+    public int MaxHealth => maxHealth;
 
     public event UnityAction<int> OnHealthChanged;
     public event UnityAction<float> OnTakeDamage;
@@ -19,8 +24,14 @@ public class PlayerHealth : MonoBehaviour
 
     private void Start()
     {
-        currentHealth = playerData.MaxHealth;
+        maxHealth = playerData.MaxHealth;
+        if (saveData.HasUpgrade(maxHealthUpgrade.UpgradeType))
+        {
+            maxHealth += maxHealthUpgrade.UpgradeValue;
+        }
+        currentHealth = maxHealth;
         OnHealthChanged?.Invoke(CurrentHealth);
+
     }
     private void Update()
     {
@@ -72,7 +83,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (isDead)
             return;
-        currentHealth = Mathf.Min(currentHealth + amount, playerData.MaxHealth);
+        currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
         OnHealthChanged?.Invoke(currentHealth);
     }
 }

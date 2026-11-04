@@ -10,6 +10,8 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private PlayerEnergy playerEnergy;
     [SerializeField] private PlayerPowerUps playerPowerUps;
     [SerializeField] private GameManager gameManager;
+    [SerializeField] private SaveDataSo saveData;
+    [SerializeField] private ShopItemSo attackDamageUpgrade;
 
     [Header("Attack Points")]
     [SerializeField] private Transform attackPointSide;
@@ -20,7 +22,16 @@ public class PlayerAttack : MonoBehaviour
     public event UnityAction<AttackDirection> OnAttack;
 
     private float attackTimer;
+    private int attackDamage;
 
+    private void Start()
+    {
+        attackDamage = playerData.AttackDamage;
+        if(saveData.HasUpgrade(attackDamageUpgrade.UpgradeType))
+        {
+            attackDamage += attackDamageUpgrade.UpgradeValue;
+        }
+    }
     private void OnEnable()
     {
         playerHealth.OnDied += HandleDied;
@@ -75,7 +86,7 @@ public class PlayerAttack : MonoBehaviour
         {
             if(hit.TryGetComponent(out EnemyHealth enemyHealth))
             {
-                int damage = playerData.AttackDamage;
+                int damage = attackDamage;
                 if(playerPowerUps.IsDamageBoosted)
                 {
                     damage = Mathf.CeilToInt(damage * playerData.DamageBoostMultiplier); //redondear hacia arriba y volver a un int
