@@ -5,6 +5,7 @@ public class ClusterSplit : MonoBehaviour
 {
     [SerializeField] private EnemyDataSo enemyData;
     [SerializeField] private SpriteRenderer spriteRenderer;
+    [SerializeField] private SfxEventSo sfxEvent;
 
     private void Start()
     {
@@ -14,6 +15,7 @@ public class ClusterSplit : MonoBehaviour
     {
         yield return new WaitForSeconds(enemyData.SplitTime - enemyData.WarningTime);
         spriteRenderer.color = Color.red;
+        sfxEvent.Play(enemyData.SpecialClip);
 
         yield return new WaitForSeconds(enemyData.WarningTime);
 

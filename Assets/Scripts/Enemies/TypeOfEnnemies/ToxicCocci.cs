@@ -1,5 +1,5 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
 
 public class ToxicCocci : MonoBehaviour
 {
@@ -8,6 +8,7 @@ public class ToxicCocci : MonoBehaviour
     [SerializeField] private LayerMask playerLayer;
     [SerializeField] private Transform visual;
     [SerializeField] private Transform firePoint;
+    [SerializeField] private SfxEventSo sfxEvent;
 
     private bool isShooting;
     private Vector3 originalScale;
@@ -31,10 +32,12 @@ public class ToxicCocci : MonoBehaviour
         isShooting = true;
         visual.localScale = originalScale * toxicCocciData.InflateSize;
         yield return new WaitForSeconds(toxicCocciData.WindUpTime);
+
         Vector2 direction = ((Vector2)target.position - (Vector2)firePoint.position).normalized;
 
         Projectile toxin = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
         toxin.Init(direction);
+        sfxEvent.Play(toxicCocciData.SpecialClip);
 
         visual.localScale = originalScale;
 

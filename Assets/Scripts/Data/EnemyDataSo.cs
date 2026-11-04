@@ -59,4 +59,13 @@ public class EnemyDataSo : ScriptableObject
 
     [SerializeField] private float splitOffsetY = 0f;
     public float SplitOffsetY => splitOffsetY;
+
+    [Header("Audio")]
+    [SerializeField] private AudioClip hitClip;
+    public AudioClip HitClip => hitClip;
+    [SerializeField] private AudioClip deathClip;
+    public AudioClip DeathClip => deathClip;
+    [SerializeField] private AudioClip specialClip;
+    public AudioClip SpecialClip => specialClip;
+
 }

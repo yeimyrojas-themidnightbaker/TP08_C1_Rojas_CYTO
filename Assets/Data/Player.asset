@@ -49,3 +49,13 @@ MonoBehaviour:
   ringRadius: 4
   ringDamage: 2
   ringVfx: {fileID: 8094843478169940566, guid: 1af64f2fa9078f54dbf449ac6839bd2a, type: 3}
+  attackClip: {fileID: 8300000, guid: 0bf02025239d5c44885a8780fe7c5093, type: 3}
+  shootClip: {fileID: 8300000, guid: 00dd30470224ee444a0446a44416d4cb, type: 3}
+  ringClip: {fileID: 8300000, guid: da8b926e9b0235343ab76b6e46ca68c5, type: 3}
+  hurtClip: {fileID: 8300000, guid: 5b8d889a2876b4e47b3da566dd047f87, type: 3}
+  diedClip: {fileID: 8300000, guid: 40df95a81f017854ca64dd4edd863e35, type: 3}
+  jumpClip: {fileID: 8300000, guid: ca92201693aed704b8aa9c9d17d80e2d, type: 3}
+  landClip: {fileID: 8300000, guid: 34273ea57c61c724d8e53e992dd15486, type: 3}
+  stepClip: {fileID: 8300000, guid: 99acd4618db31a44aae09d7ac75929c4, type: 3}
+  stepInterval: 0.32
+  healClip: {fileID: 8300000, guid: 0f108d9d17d719e47ab1362966cd3020, type: 3}

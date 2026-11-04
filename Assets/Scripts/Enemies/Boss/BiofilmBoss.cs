@@ -12,6 +12,7 @@ public class BiofilmBoss : MonoBehaviour
     private BossState state = BossState.Waiting;
     private int shieldsRemaining;
     public event UnityAction OnBossDefeated;
+    public event UnityAction OnFightStarted;
     private void Start()
     {
         shieldsRemaining = shields.Length;
@@ -63,6 +64,7 @@ public class BiofilmBoss : MonoBehaviour
             case BossState.Shielded:
                 coreCollider.enabled = false;
                 coreShooter.enabled = false;
+                OnFightStarted?.Invoke();
                 break;
             case BossState.Exposed:
                 coreCollider.enabled = true;

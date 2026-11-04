@@ -8,6 +8,8 @@ public class UIShop : MonoBehaviour
     [SerializeField] private ShopItemSo[] shopItems;
     [SerializeField] private UIShopItem cardPrefab;
     [SerializeField] private Transform cardContainer;
+    [SerializeField] private AudioSource uiAudioSource;
+    [SerializeField] private AudioClip buyClip;
 
 
 
@@ -27,15 +29,22 @@ public class UIShop : MonoBehaviour
     {
      
         saveData.OnUpgradePurchased += RefreshAminoacids;
+        saveData.OnUpgradePurchased += HandleUpgradePurchased;
     }
 
     private void OnDisable()
     {
         saveData.OnUpgradePurchased -= RefreshAminoacids;
+        saveData.OnUpgradePurchased -= HandleUpgradePurchased;
     }
 
     private void RefreshAminoacids()
     {
         currentAminoacids.text = saveData.TotalAminoacids.ToString();
+    }
+
+    private void HandleUpgradePurchased()
+    {
+        uiAudioSource.PlayOneShot(buyClip);
     }
 }

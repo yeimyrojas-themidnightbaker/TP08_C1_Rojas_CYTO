@@ -113,4 +113,29 @@ public class PlayerDataSo : ScriptableObject
     [SerializeField] private GameObject ringVfx;
     public GameObject RingVfx => ringVfx;
 
+    [Header("Audio")]
+    [SerializeField] private AudioClip attackClip;
+    public AudioClip AttackClip => attackClip;
+    [SerializeField] private AudioClip shootClip;
+    public AudioClip ShootClip => shootClip;
+    [SerializeField] private AudioClip ringClip;
+    public AudioClip RingClip => ringClip;
+    [SerializeField] private AudioClip hurtClip;
+    public AudioClip HurtClip => hurtClip;
+    [SerializeField] private AudioClip diedClip;
+    public AudioClip DiedClip => diedClip;
+    [SerializeField] private AudioClip jumpClip;
+    public AudioClip JumpClip => jumpClip;
+    [SerializeField] private AudioClip landClip;
+    public AudioClip LandClip => landClip;
+    [SerializeField] private AudioClip stepClip;
+    public AudioClip StepClip => stepClip;
+    //for steps
+    [SerializeField] private float stepInterval;
+    public float StepInterval => stepInterval;
+
+    [SerializeField] private AudioClip healClip;
+    public AudioClip HealClip => healClip;
+
+
 }

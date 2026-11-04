@@ -211,6 +211,8 @@ GameObject:
   - component: {fileID: 9109942366718439563}
   - component: {fileID: 2146610214747039055}
   - component: {fileID: 4561981084110854536}
+  - component: {fileID: 8307067385178865047}
+  - component: {fileID: 6592237454808222385}
   - component: {fileID: 2268744914310296969}
   m_Layer: 7
   m_Name: EnemyToxicCocci
@@ -229,7 +231,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 88.47, y: 8.51, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.05, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7358142353630933515}
@@ -270,6 +272,7 @@ MonoBehaviour:
     m_Bits: 64
   visual: {fileID: 2347743929678713030}
   firePoint: {fileID: 6537011615081687149}
+  sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
 --- !u!114 &9109942366718439563
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -313,6 +316,36 @@ MonoBehaviour:
   enemyHealth: {fileID: 1236736948482213012}
   enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
   runProgressSo: {fileID: 11400000, guid: ca6fbf48124e8814da0b7c8401b9a007, type: 2}
+--- !u!114 &8307067385178865047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3336463136770210205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f842f7177ba1f7d46933ecd6d5a40279, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAudio
+  enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
+  enemyHealth: {fileID: 1236736948482213012}
+  sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
+--- !u!114 &6592237454808222385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3336463136770210205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f842f7177ba1f7d46933ecd6d5a40279, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAudio
+  enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
+  enemyHealth: {fileID: 1236736948482213012}
+  sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
 --- !u!61 &2268744914310296969
 BoxCollider2D:
   m_ObjectHideFlags: 0

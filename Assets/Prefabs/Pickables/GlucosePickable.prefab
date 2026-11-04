@@ -48,6 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GlucosePickup
   pickableData: {fileID: 11400000, guid: be61ec6bf97394746936b166d6556193, type: 2}
+  sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
 --- !u!114 &1194707466539982957
 MonoBehaviour:
   m_ObjectHideFlags: 0

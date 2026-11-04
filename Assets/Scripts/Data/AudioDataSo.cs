@@ -5,6 +5,10 @@ public class AudioDataSo : ScriptableObject
 {
     [SerializeField] private AudioMixer mixer;
     [SerializeField] private float defaultVolume = 0.8f;
+    [SerializeField] private AudioClip victoryClip;
+    public AudioClip VictoryClip => victoryClip;
+    [SerializeField] private AudioClip defeatClip;
+    public AudioClip DefeatClip => defeatClip;
 
     private string KeyOf(AudioChannel channel)
     {

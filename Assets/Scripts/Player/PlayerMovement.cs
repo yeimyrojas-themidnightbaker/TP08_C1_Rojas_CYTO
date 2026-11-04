@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -27,6 +28,10 @@ public class PlayerMovement : MonoBehaviour
     public bool IsGrounded => isGrounded;
     private float facingDirection = 1f;
     public float FacingDirection => facingDirection;
+    public bool IsWalking => horizontalInput != 0f;
+
+    public event UnityAction OnJumped;
+    public event UnityAction OnLanded;
 
     private void Awake()
     {
@@ -92,8 +97,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void CheckGround()
     {
+        bool wasGrounded = isGrounded;
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, playerData.GroundCheckRadius, groundLayer) != null;
-
         if (isGrounded && rb.linearVelocity.y <= 0)
         {
             jumpCount = 0;
@@ -101,6 +106,10 @@ public class PlayerMovement : MonoBehaviour
         else if (!isGrounded && jumpCount == 0)
         {
             jumpCount = 1;
+        }
+        if(isGrounded && !wasGrounded)
+        {
+            OnLanded?.Invoke();
         }
     }
 
@@ -123,6 +132,7 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.AddForce(Vector2.up * playerData.JumpForce, ForceMode2D.Impulse);
             jumpCount++;
+            OnJumped?.Invoke();
         }
         jumpRequested = false;
     }

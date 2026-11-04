@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023ff3af355ff774fb1edc3f7bb90358, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: Assembly-CSharp::AudioDataSo
+  mixer: {fileID: 24100000, guid: c507ad07bb2e5d144b6b309118b748fe, type: 2}
+  defaultVolume: 0.8
+  victoryClip: {fileID: 8300000, guid: 81e31bf23ee09cf4e9dad0e4b9b51b44, type: 3}
+  defeatClip: {fileID: 8300000, guid: aa03b852a4c753440b1c355658d3abcc, type: 3}

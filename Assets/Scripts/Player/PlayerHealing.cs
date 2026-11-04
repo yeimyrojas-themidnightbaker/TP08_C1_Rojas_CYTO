@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class PlayerHealing : MonoBehaviour
 {
@@ -10,6 +11,8 @@ public class PlayerHealing : MonoBehaviour
     private float healTimer;
     private bool isHealing;
     public bool IsHealing => isHealing;
+
+    public event UnityAction OnHealed;
 
     private void OnEnable()
     {
@@ -39,6 +42,7 @@ public class PlayerHealing : MonoBehaviour
             if(playerEnergy.TrySpend(playerData.HealCost))
             {
                 playerHealth.AddLife(1);
+                OnHealed?.Invoke();
             }
             healTimer = 0f;
         }

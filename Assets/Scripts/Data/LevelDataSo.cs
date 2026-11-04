@@ -8,5 +8,6 @@ public class LevelDataSo : ScriptableObject
     public float PointsPerSecond => pointsPerSecond;
     [SerializeField] private int pointsPerCapsule = 500;
     public float PointsPerCapsule => pointsPerCapsule;
-
+    [SerializeField] private AudioClip clipGate;
+    public AudioClip ClipGate => clipGate;
 }
