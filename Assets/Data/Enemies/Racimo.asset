@@ -32,3 +32,5 @@ MonoBehaviour:
   hitClip: {fileID: 8300000, guid: 52f9a20608e711846ad9e826838cd1cb, type: 3}
   deathClip: {fileID: 8300000, guid: fe3891aa0cbacbf4cb7cd8aef76871d1, type: 3}
   specialClip: {fileID: 8300000, guid: 5eed10e8fda131648b7d5cb2147d31bf, type: 3}
+  hitFlashColor: {r: 0.92156863, g: 0.25490198, b: 0, a: 0}
+  hitFlashDuration: 0.1

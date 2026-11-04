@@ -213,6 +213,7 @@ GameObject:
   - component: {fileID: 4561981084110854536}
   - component: {fileID: 8307067385178865047}
   - component: {fileID: 6592237454808222385}
+  - component: {fileID: 848461014470425323}
   - component: {fileID: 2268744914310296969}
   m_Layer: 7
   m_Name: EnemyToxicCocci
@@ -346,6 +347,21 @@ MonoBehaviour:
   enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
   enemyHealth: {fileID: 1236736948482213012}
   sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
+--- !u!114 &848461014470425323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3336463136770210205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b4cacb3f190734ea51b3b7f6c65a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitFlash
+  enemyHealth: {fileID: 1236736948482213012}
+  enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
+  spriteRenderer: {fileID: 275883580328311429}
 --- !u!61 &2268744914310296969
 BoxCollider2D:
   m_ObjectHideFlags: 0

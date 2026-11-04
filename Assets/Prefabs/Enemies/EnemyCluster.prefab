@@ -436,6 +436,7 @@ GameObject:
   - component: {fileID: 6489245386019457410}
   - component: {fileID: 1434376202242384533}
   - component: {fileID: 7473250462919477805}
+  - component: {fileID: 3496231621098524668}
   - component: {fileID: 1949085537829538915}
   - component: {fileID: 1732732461521044378}
   - component: {fileID: 3775172420354446571}
@@ -553,6 +554,21 @@ MonoBehaviour:
   enemyHealth: {fileID: 69153790601259993}
   enemyData: {fileID: 11400000, guid: 2f90828e39eb4a1438ca9c690ee59faa, type: 2}
   runProgressSo: {fileID: 11400000, guid: ca6fbf48124e8814da0b7c8401b9a007, type: 2}
+--- !u!114 &3496231621098524668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6752592368426781144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b4cacb3f190734ea51b3b7f6c65a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitFlash
+  enemyHealth: {fileID: 69153790601259993}
+  enemyData: {fileID: 11400000, guid: 2f90828e39eb4a1438ca9c690ee59faa, type: 2}
+  spriteRenderer: {fileID: 1949085537829538915}
 --- !u!212 &1949085537829538915
 SpriteRenderer:
   serializedVersion: 2

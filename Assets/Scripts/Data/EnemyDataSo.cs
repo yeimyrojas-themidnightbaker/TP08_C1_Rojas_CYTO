@@ -68,4 +68,10 @@ public class EnemyDataSo : ScriptableObject
     [SerializeField] private AudioClip specialClip;
     public AudioClip SpecialClip => specialClip;
 
+    [Header("VisualFeedback")]
+    [SerializeField] private Color hitFlashColor;
+    public Color HitFlashColor => hitFlashColor;
+    [SerializeField] private float hitFlashDuration = 0.1f;
+    public float HitFlashDuration => hitFlashDuration;
+
 }
