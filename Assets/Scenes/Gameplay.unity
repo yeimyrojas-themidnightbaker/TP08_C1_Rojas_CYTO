@@ -870,6 +870,7 @@ MonoBehaviour:
   playerHealth: {fileID: 1761077449}
   biofilmBoss: {fileID: 735026208}
   saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
+  playFab: {fileID: 11400000, guid: d6d53d998187cb74d96b6ac8bb4693e2, type: 2}
 --- !u!4 &325456110
 Transform:
   m_ObjectHideFlags: 0

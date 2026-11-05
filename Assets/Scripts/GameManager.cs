@@ -12,6 +12,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private BiofilmBoss biofilmBoss;
     [SerializeField] private SaveDataSo saveData;
 
+    [SerializeField] private PlayFabSo playFab;
+
     private float elapsedTime;
     public float ElapsedTime => elapsedTime;
 
@@ -26,6 +28,7 @@ public class GameManager : MonoBehaviour
     {
         runProgressData.ResetRun();
         saveData.Load();
+        playFab.Login();
     }
 
     private void OnEnable()
@@ -74,6 +77,7 @@ public class GameManager : MonoBehaviour
             runProgressData.AddScore(timeBonus + capsuleBonus);
         }
         saveData.CommitRun(runProgressData.CurrentScore, runProgressData.CurrentAminoacid, elapsedTime, won);
+        playFab.SubmitScore(runProgressData.CurrentScore);
         gameResultsData.SetResult(won, elapsedTime, timeBonus, capsuleBonus);
 
         Invoke(nameof(LoadGameOver), gameData.EndDelay);
