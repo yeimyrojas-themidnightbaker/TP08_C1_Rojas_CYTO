@@ -23,7 +23,7 @@ MonoBehaviour:
   dangerRange: 8
   inflateSize: 1.3
   windUpTime: 0.4
-  timeBetweenShoots: 2
+  timeBetweenShoots: 0.5
   smallCluster: {fileID: 0}
   splitTime: 8
   warningTime: 0.4
