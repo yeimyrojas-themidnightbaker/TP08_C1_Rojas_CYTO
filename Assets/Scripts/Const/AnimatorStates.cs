@@ -13,4 +13,6 @@ public static class AnimatorStates
     public static readonly int Ring = Animator.StringToHash("Ring");
     public static readonly int Hurt = Animator.StringToHash("Hurt");
     public static readonly int Lysis = Animator.StringToHash("Lysis");
+    public static readonly int ToxicAnticipation = Animator.StringToHash("ToxicAnticipation");
+    public static readonly int ToxicShoot = Animator.StringToHash("ToxicShoot");
 }
