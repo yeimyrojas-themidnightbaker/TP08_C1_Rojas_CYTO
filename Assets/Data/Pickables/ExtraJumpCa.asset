@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ExtraJumpCa
   m_EditorClassIdentifier: Assembly-CSharp::PickableDataSo
   amount: 1
-  pickupParticles: {fileID: 0}
+  pickupParticles: {fileID: 8094843478169940566, guid: 71edfb6daede4f94296d7872b590c19a, type: 3}
   pickupClip: {fileID: 8300000, guid: 5fa82821c4591f644aa0a95e8f2e7f81, type: 3}
   floatAmplitude: 0.15
-  floatSpeed: 2
+  floatSpeed: 0.5
   powerUpType: 2
   powerUpDuration: 20

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Aminoacid
   m_EditorClassIdentifier: Assembly-CSharp::PickableDataSo
   amount: 1
-  pickupParticles: {fileID: 0}
+  pickupParticles: {fileID: 8094843478169940566, guid: 151b15d0d96b4594aa44df7d139a4c76, type: 3}
   pickupClip: {fileID: 8300000, guid: 2655b9bc4de92864c86f32e32b8ab0cf, type: 3}
-  floatAmplitude: 0.5
-  floatSpeed: 3
+  floatAmplitude: 0
+  floatSpeed: 0
   powerUpType: 0
   powerUpDuration: 15

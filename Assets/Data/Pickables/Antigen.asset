@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Antigen
   m_EditorClassIdentifier: Assembly-CSharp::PickableDataSo
   amount: 1
-  pickupParticles: {fileID: 0}
+  pickupParticles: {fileID: 8094843478169940566, guid: 467fb8a4904f63d4295cd16cbdfde99f, type: 3}
   pickupClip: {fileID: 8300000, guid: 09e74ee870d4e7d469979ddfdedfb79e, type: 3}
   floatAmplitude: 0.15
-  floatSpeed: 2
+  floatSpeed: 0.5
   powerUpType: 0
   powerUpDuration: 15

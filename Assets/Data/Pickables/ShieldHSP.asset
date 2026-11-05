@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ShieldHSP
   m_EditorClassIdentifier: Assembly-CSharp::PickableDataSo
   amount: 1
-  pickupParticles: {fileID: 0}
+  pickupParticles: {fileID: 8094843478169940566, guid: 10934036ff3f9d242afafd118ac0a1db, type: 3}
   pickupClip: {fileID: 8300000, guid: 5fa82821c4591f644aa0a95e8f2e7f81, type: 3}
   floatAmplitude: 0.15
-  floatSpeed: 2
+  floatSpeed: 0.5
   powerUpType: 1
   powerUpDuration: 10

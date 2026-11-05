@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Glucose
   m_EditorClassIdentifier: Assembly-CSharp::PickableDataSo
   amount: 1
-  pickupParticles: {fileID: 0}
+  pickupParticles: {fileID: 8094843478169940566, guid: 5b38c0359de836243b44cd8de90b2be6, type: 3}
   pickupClip: {fileID: 8300000, guid: d9a06e3b60000204894f942aad8f410e, type: 3}
   floatAmplitude: 0.5
-  floatSpeed: 3
+  floatSpeed: 0.5
   powerUpType: 0
   powerUpDuration: 15
