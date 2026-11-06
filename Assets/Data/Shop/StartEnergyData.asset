@@ -15,6 +15,6 @@ MonoBehaviour:
   upgradeType: 3
   upgradeValue: 25
   cost: 6
-  spriteUpgrade: {fileID: 0}
+  spriteUpgrade: {fileID: -127205318412401478, guid: 12c98a79c6dc5e54c9b801e896bc663b, type: 3}
   description: Stored glycogen gives you a head start. Start each run with +25 ATP
   labelName: Glycogen Reserve

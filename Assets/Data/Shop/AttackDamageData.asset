@@ -15,6 +15,6 @@ MonoBehaviour:
   upgradeType: 1
   upgradeValue: 1
   cost: 6
-  spriteUpgrade: {fileID: 0}
+  spriteUpgrade: {fileID: -7988781951965915494, guid: 5663859ae359c07408dd9a1dbd5c5381, type: 3}
   description: More lysosomes to digest pathogens faster. +1 attack damage.
   labelName: More Lysosomes

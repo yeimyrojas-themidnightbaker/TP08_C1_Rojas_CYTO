@@ -15,6 +15,6 @@ MonoBehaviour:
   upgradeType: 0
   upgradeValue: 1
   cost: 5
-  spriteUpgrade: {fileID: 0}
+  spriteUpgrade: {fileID: 4420112033450298614, guid: 94ba1275c0ea3b747be54427fa042aba, type: 3}
   description: A tougher cell membrane that resists toxins. +1 max health.
   labelName: Reinforced Membrane
