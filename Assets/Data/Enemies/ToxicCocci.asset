@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: ToxicCocci
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDataSo
   maxHealth: 2
-  deathVfx: {fileID: 0}
+  deathVfx: {fileID: 872542930143542916, guid: 4dadb3ee149c3b044952cecdf384ff5f, type: 3}
   score: 100
-  lootMin: 3
-  lootMax: 4
+  lootMin: 1
+  lootMax: 2
   lootPrefab: {fileID: 229549260235402249, guid: 13ed0691aa0b0004a8f70a353e1a2ce2, type: 3}
   lootSpread: 1.5
   moveSpeed: 1

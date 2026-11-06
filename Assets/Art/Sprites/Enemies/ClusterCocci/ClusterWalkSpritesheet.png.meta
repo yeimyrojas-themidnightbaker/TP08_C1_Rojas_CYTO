@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: c196d4a1ae44b934ca3b37e56eb977a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7935618518428978946
+    second: B_nube_spritesheet_0
+  - first:
+      213: -5524143494100685381
+    second: B_nube_spritesheet_1
+  - first:
+      213: 8146344641504445636
+    second: B_nube_spritesheet_2
+  - first:
+      213: -3665106118932064913
+    second: B_nube_spritesheet_3
+  - first:
+      213: -1478605167959263968
+    second: B_nube_spritesheet_4
+  - first:
+      213: -5402556870165835431
+    second: B_nube_spritesheet_5
+  - first:
+      213: 5928247298645887451
+    second: B_nube_spritesheet_6
+  - first:
+      213: -5484955028855050493
+    second: B_nube_spritesheet_7
+  - first:
+      213: 3390180906743954258
+    second: B_nube_spritesheet_8
+  - first:
+      213: -498278290889903977
+    second: B_nube_spritesheet_9
+  - first:
+      213: 3519577010396379336
+    second: B_nube_spritesheet_10
+  - first:
+      213: -8877162963965210696
+    second: B_nube_spritesheet_11
+  - first:
+      213: -939641373887185357
+    second: B_nube_spritesheet_12
+  - first:
+      213: 5700122215280194237
+    second: B_nube_spritesheet_13
+  - first:
+      213: -2600622786592142883
+    second: B_nube_spritesheet_14
+  - first:
+      213: -7923265475732457236
+    second: B_nube_spritesheet_15
+  - first:
+      213: -408543529569656955
+    second: B_nube_spritesheet_16
+  - first:
+      213: 908707572081411611
+    second: B_nube_spritesheet_17
+  - first:
+      213: -3855857558679392911
+    second: B_nube_spritesheet_18
+  - first:
+      213: -5553450654132947143
+    second: B_nube_spritesheet_19
+  - first:
+      213: -6491595219349820072
+    second: B_nube_spritesheet_20
+  - first:
+      213: 3527034543765385586
+    second: B_nube_spritesheet_21
+  - first:
+      213: 3301952812369329277
+    second: B_nube_spritesheet_22
+  - first:
+      213: -6503057705796368020
+    second: B_nube_spritesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc242238861c24e84003defb192e3e
+      internalID: -1955280527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1800
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5c5f26a68ac64ca41bf1fe15a154a
+      internalID: -999810493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1800
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b921231fd425784caa831e371d1b3f0
+      internalID: 349013151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1800
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4713e45e12943948b832737b61da801
+      internalID: 1344445585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1800
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a996ed5cd6ad9349a5fdc17b28a2888
+      internalID: -762976337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1800
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d789d7a42e03494ba15ba832cdf343f
+      internalID: -2100187468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ee3c8245fb0646924f58c445ea490
+      internalID: -41920779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1200
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0933f416bf8cc74f94cb9b404b18d16
+      internalID: 1036497215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1200
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e3ea32d6439b408e892162343770b
+      internalID: -605158491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1200
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78fe0957245244b8138924d471e635
+      internalID: 1653976754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1200
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671bfb194191cfe429f1ce43040ea007
+      internalID: 626410736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1200
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12405f749a4cec42896ec5b7a1619a2
+      internalID: -278646232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10d7e4fafdf444f9f4f950385b8327
+      internalID: 357688937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 600
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd31c6d979d02e45969e55e27b1bab8
+      internalID: 501139684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 600
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20629b3ea4314c488d9219506eb3c8b
+      internalID: -706184051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 600
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f89552d1a41c438d856d817415df2
+      internalID: -1143532104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 600
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe924dbe7f2658841afb19e00ca3d768
+      internalID: 2037544417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 600
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175968385d2c94c4b81fe2c6a63c3960
+      internalID: -653798259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4933d929f47c47840195605e53178
+      internalID: -15428858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b092de8520b79e94e93d0ba1aefca0e6
+      internalID: 1900834337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00c2cea9af34546bbc02c94b3c6bba
+      internalID: 788813662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ddb0748e7e93348a88d1a3c6af3ffc
+      internalID: 109235023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf257afebcd9d284e914ab31a5adf801
+      internalID: 522719067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClusterWalkSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 680
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59799be01e392de45bc839d1bcd0bde6
+      internalID: -836765046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e30882504153d6a43b11c7e2d7eb7416
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":680.0,"y":600.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ClusterWalkSpritesheet_0: -1955280527
+      ClusterWalkSpritesheet_1: -999810493
+      ClusterWalkSpritesheet_10: 626410736
+      ClusterWalkSpritesheet_11: -278646232
+      ClusterWalkSpritesheet_12: 357688937
+      ClusterWalkSpritesheet_13: 501139684
+      ClusterWalkSpritesheet_14: -706184051
+      ClusterWalkSpritesheet_15: -1143532104
+      ClusterWalkSpritesheet_16: 2037544417
+      ClusterWalkSpritesheet_17: -653798259
+      ClusterWalkSpritesheet_18: -15428858
+      ClusterWalkSpritesheet_19: 1900834337
+      ClusterWalkSpritesheet_2: 349013151
+      ClusterWalkSpritesheet_20: 788813662
+      ClusterWalkSpritesheet_21: 109235023
+      ClusterWalkSpritesheet_22: 522719067
+      ClusterWalkSpritesheet_23: -836765046
+      ClusterWalkSpritesheet_3: 1344445585
+      ClusterWalkSpritesheet_4: -762976337
+      ClusterWalkSpritesheet_5: -2100187468
+      ClusterWalkSpritesheet_6: -41920779
+      ClusterWalkSpritesheet_7: 1036497215
+      ClusterWalkSpritesheet_8: -605158491
+      ClusterWalkSpritesheet_9: 1653976754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

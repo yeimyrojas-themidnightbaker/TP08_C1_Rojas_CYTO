@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f3768a49352d3741bd70838dc591ad8, type: 3}
   m_Name: SmallCluster
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDataSo
-  maxHealth: 2
+  maxHealth: 3
   deathVfx: {fileID: 8094843478169940566, guid: 070b535fb6c29414389223145931eecc, type: 3}
   score: 50
   lootMin: 1
