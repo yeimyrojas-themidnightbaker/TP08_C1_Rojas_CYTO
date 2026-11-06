@@ -45416,7 +45416,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 0.7882353, g: 0.44705883, b: 0.49411765, a: 1}
+  m_Color: {r: 0.618, g: 0.618, b: 0.618, a: 1}
   m_Origin: {x: -20, y: -34, z: 0}
   m_Size: {x: 143, y: 59, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -48552,6 +48552,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6958327356395250783, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 6958327356395250783, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 6958327356395250783, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6958327356395250783, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -25
+      objectReference: {fileID: 0}
     - target: {fileID: 7441513981631868651, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -48568,6 +48584,10 @@ PrefabInstance:
       propertyPath: playerEnergy
       value: 
       objectReference: {fileID: 1761077452}
+    - target: {fileID: 8535407294621723067, guid: ba8cb03902b5fce419ca7c177bdd968d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8691392626310083545, guid: 2b2c39a73f5c29748aa56b5764c6b065, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
