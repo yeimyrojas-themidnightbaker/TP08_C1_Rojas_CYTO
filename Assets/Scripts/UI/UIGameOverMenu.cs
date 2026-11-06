@@ -15,6 +15,8 @@ public class UIGameOverMenu : MonoBehaviour
     [SerializeField] private Button btnRetry;
     [SerializeField] private Button btnMenu;
     [SerializeField] private Button btnExit;
+    [SerializeField] private Sprite spriteWin;
+    [SerializeField] private Sprite spriteLose;
 
     private void Start()
     {
@@ -23,12 +25,12 @@ btnExit.gameObject.SetActive(false);
 #endif
         if (gameResultsData.Won)
         {
-            backgroundImage.color = Color.magenta;
+            backgroundImage.sprite = spriteWin;
             winText.text = "InfeccionEliminada";
         }
         else
         {
-            backgroundImage.color = Color.black;
+            backgroundImage.sprite = spriteLose;
             winText.text = "El macrofago cayo";
         }
         ShowScore();
