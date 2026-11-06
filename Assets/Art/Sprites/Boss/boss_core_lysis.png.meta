@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 6fc347654c12fe34393f8ee96947b1ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6897922586905623304
+    second: boss_core_lysis_0
+  - first:
+      213: 7415533153041559353
+    second: boss_core_lysis_1
+  - first:
+      213: -1893308910893900513
+    second: boss_core_lysis_2
+  - first:
+      213: -1342310224168703918
+    second: boss_core_lysis_3
+  - first:
+      213: -2384738351520083240
+    second: boss_core_lysis_4
+  - first:
+      213: 2465547622075769666
+    second: boss_core_lysis_5
+  - first:
+      213: 830512920452083007
+    second: boss_core_lysis_6
+  - first:
+      213: 3084891234278694622
+    second: boss_core_lysis_7
+  - first:
+      213: 9082311343377370229
+    second: boss_core_lysis_8
+  - first:
+      213: 398955378222979145
+    second: boss_core_lysis_9
+  - first:
+      213: 6654537811193092404
+    second: boss_core_lysis_10
+  - first:
+      213: 4272511691067252661
+    second: boss_core_lysis_11
+  - first:
+      213: -5085056190356254832
+    second: boss_core_lysis_12
+  - first:
+      213: 2310048601861280223
+    second: boss_core_lysis_13
+  - first:
+      213: 1680951009951060987
+    second: boss_core_lysis_14
+  - first:
+      213: 5030728608017702324
+    second: boss_core_lysis_15
+  - first:
+      213: 4968130563464869743
+    second: boss_core_lysis_16
+  - first:
+      213: 3168072903782809433
+    second: boss_core_lysis_17
+  - first:
+      213: -1556101812152549832
+    second: boss_core_lysis_18
+  - first:
+      213: -889779743210044083
+    second: boss_core_lysis_19
+  - first:
+      213: 146436107703807525
+    second: boss_core_lysis_20
+  - first:
+      213: -146843665227655831
+    second: boss_core_lysis_21
+  - first:
+      213: 5581755456879032272
+    second: boss_core_lysis_22
+  - first:
+      213: 7613296723961252432
+    second: boss_core_lysis_23
+  - first:
+      213: 7524679026956305304
+    second: boss_core_lysis_24
+  - first:
+      213: -4195205214193507245
+    second: boss_core_lysis_25
+  - first:
+      213: 5113613739966386891
+    second: boss_core_lysis_26
+  - first:
+      213: -5622435665579959015
+    second: boss_core_lysis_27
+  - first:
+      213: 6272855280095136332
+    second: boss_core_lysis_28
+  - first:
+      213: -2469665216786478595
+    second: boss_core_lysis_29
+  - first:
+      213: -6345915938704713332
+    second: boss_core_lysis_30
+  - first:
+      213: -6800591939565360824
+    second: boss_core_lysis_31
+  - first:
+      213: 4643568593173137693
+    second: boss_core_lysis_32
+  - first:
+      213: 1632639312788816273
+    second: boss_core_lysis_33
+  - first:
+      213: 2177538612378814692
+    second: boss_core_lysis_34
+  - first:
+      213: -700492124451575481
+    second: boss_core_lysis_35
+  - first:
+      213: -6326751394594631503
+    second: boss_core_lysis_36
+  - first:
+      213: -4143800764235625505
+    second: boss_core_lysis_37
+  - first:
+      213: -8301833967898380737
+    second: boss_core_lysis_38
+  - first:
+      213: 6113542984116759970
+    second: boss_core_lysis_39
+  - first:
+      213: 3006381844263744415
+    second: boss_core_lysis_40
+  - first:
+      213: -7915055326537577130
+    second: boss_core_lysis_41
+  - first:
+      213: -1152281590204084855
+    second: boss_core_lysis_42
+  - first:
+      213: 5676300259610351021
+    second: boss_core_lysis_43
+  - first:
+      213: 8094654758442657305
+    second: boss_core_lysis_44
+  - first:
+      213: -1101461921302144792
+    second: boss_core_lysis_45
+  - first:
+      213: 1894159254038437977
+    second: boss_core_lysis_46
+  - first:
+      213: 5748217080923168773
+    second: boss_core_lysis_47
+  - first:
+      213: -5972893420580221023
+    second: boss_core_lysis_48
+  - first:
+      213: -6580700003489375326
+    second: boss_core_lysis_49
+  - first:
+      213: 6553393449884774041
+    second: boss_core_lysis_50
+  - first:
+      213: 6617674447026152570
+    second: boss_core_lysis_51
+  - first:
+      213: 8987663028117553657
+    second: boss_core_lysis_52
+  - first:
+      213: -4131616228855856191
+    second: boss_core_lysis_53
+  - first:
+      213: -3086280251192101257
+    second: boss_core_lysis_54
+  - first:
+      213: -6472748908017895672
+    second: boss_core_lysis_55
+  - first:
+      213: 3101744759281009256
+    second: boss_core_lysis_56
+  - first:
+      213: -6533506992387645022
+    second: boss_core_lysis_57
+  - first:
+      213: -8955529840242937637
+    second: boss_core_lysis_58
+  - first:
+      213: -7449081169255043008
+    second: boss_core_lysis_59
+  - first:
+      213: 1971342627443900896
+    second: boss_core_lysis_60
+  - first:
+      213: 1776222612505878752
+    second: boss_core_lysis_61
+  - first:
+      213: 1692295668679954784
+    second: boss_core_lysis_62
+  - first:
+      213: 7845246543281786017
+    second: boss_core_lysis_63
+  - first:
+      213: -511416454027046934
+    second: boss_core_lysis_64
+  - first:
+      213: 5291542311178931531
+    second: boss_core_lysis_65
+  - first:
+      213: 258572549403519939
+    second: boss_core_lysis_66
+  - first:
+      213: -1787686879617132285
+    second: boss_core_lysis_67
+  - first:
+      213: -7381459302615151864
+    second: boss_core_lysis_68
+  - first:
+      213: -1102351398365323729
+    second: boss_core_lysis_69
+  - first:
+      213: -2703487220333988930
+    second: boss_core_lysis_70
+  - first:
+      213: -5310556458409521557
+    second: boss_core_lysis_71
+  - first:
+      213: 6008416001518072519
+    second: boss_core_lysis_72
+  - first:
+      213: -7912645276660485906
+    second: boss_core_lysis_73
+  - first:
+      213: 2588380284678843502
+    second: boss_core_lysis_74
+  - first:
+      213: 1121070770619013642
+    second: boss_core_lysis_75
+  - first:
+      213: -8141362989424758713
+    second: boss_core_lysis_76
+  - first:
+      213: -5855556873147811764
+    second: boss_core_lysis_77
+  - first:
+      213: 7068404503668289008
+    second: boss_core_lysis_78
+  - first:
+      213: 789274445678694604
+    second: boss_core_lysis_79
+  - first:
+      213: -8341996778920203971
+    second: boss_core_lysis_80
+  - first:
+      213: 3800214191865620640
+    second: boss_core_lysis_81
+  - first:
+      213: 8377410746027439016
+    second: boss_core_lysis_82
+  - first:
+      213: -1033808426009080912
+    second: boss_core_lysis_83
+  - first:
+      213: 5238115882716594045
+    second: boss_core_lysis_84
+  - first:
+      213: 2718518327152068355
+    second: boss_core_lysis_85
+  - first:
+      213: 789266202108081511
+    second: boss_core_lysis_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_core_lysis_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4c85734f7a540a0800000000000000
+      internalID: -6897922586905623304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fac2f0d1449e660800000000000000
+      internalID: 7415533153041559353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d5614a39d99b5e0800000000000000
+      internalID: -1893308910893900513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ac0686f72f5de0800000000000000
+      internalID: -1342310224168703918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2156baa15b7eed0800000000000000
+      internalID: -2384738351520083240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a2aecf72673220800000000000000
+      internalID: 2465547622075769666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d2be4d913968b00800000000000000
+      internalID: 830512920452083007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eded5edab3cbfca20800000000000000
+      internalID: 3084891234278694622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c4281fb0ada0e70800000000000000
+      internalID: 9082311343377370229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94856308dcf598500800000000000000
+      internalID: 398955378222979145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439d19cc1eaa95c50800000000000000
+      internalID: 6654537811193092404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_core_lysis_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf54cc0fb20b4b30800000000000000
+      internalID: 4272511691067252661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75c9c39ceb3be1d429658f1bc1b46b30
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss_core_lysis_0: -6897922586905623304
+      boss_core_lysis_1: 7415533153041559353
+      boss_core_lysis_10: 6654537811193092404
+      boss_core_lysis_11: 4272511691067252661
+      boss_core_lysis_2: -1893308910893900513
+      boss_core_lysis_3: -1342310224168703918
+      boss_core_lysis_4: -2384738351520083240
+      boss_core_lysis_5: 2465547622075769666
+      boss_core_lysis_6: 830512920452083007
+      boss_core_lysis_7: 3084891234278694622
+      boss_core_lysis_8: 9082311343377370229
+      boss_core_lysis_9: 398955378222979145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

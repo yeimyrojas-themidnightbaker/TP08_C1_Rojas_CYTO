@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: be51ff213044746478d72943bbe8daf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 588804228252796027
+    second: linfocito_activado_loop_sheet_0
+  - first:
+      213: 3120127143981330801
+    second: linfocito_activado_loop_sheet_1
+  - first:
+      213: -1600108344043406444
+    second: linfocito_activado_loop_sheet_2
+  - first:
+      213: -8367978524986230504
+    second: linfocito_activado_loop_sheet_3
+  - first:
+      213: 736698539523977476
+    second: linfocito_activado_loop_sheet_4
+  - first:
+      213: -1886727402268014093
+    second: linfocito_activado_loop_sheet_5
+  - first:
+      213: 8135747388323681822
+    second: linfocito_activado_loop_sheet_6
+  - first:
+      213: 8868321081375050515
+    second: linfocito_activado_loop_sheet_7
+  - first:
+      213: 2152465712454289266
+    second: linfocito_activado_loop_sheet_8
+  - first:
+      213: 382122251397690335
+    second: linfocito_activado_loop_sheet_9
+  - first:
+      213: -138405374148016055
+    second: linfocito_activado_loop_sheet_10
+  - first:
+      213: -4463625070545119035
+    second: linfocito_activado_loop_sheet_11
+  - first:
+      213: -5489858602904742983
+    second: linfocito_activado_loop_sheet_12
+  - first:
+      213: -6878623831592813373
+    second: linfocito_activado_loop_sheet_13
+  - first:
+      213: 2663324914902570867
+    second: linfocito_activado_loop_sheet_14
+  - first:
+      213: 7957116533556696780
+    second: linfocito_activado_loop_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b748143735adb2800800000000000000
+      internalID: 588804228252796027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1680
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171bf073b1bec4b20800000000000000
+      internalID: 3120127143981330801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1680
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b772750f54bc9e0800000000000000
+      internalID: -1600108344043406444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193912fdd7fedb80800000000000000
+      internalID: -8367978524986230504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40130e22b67493a00800000000000000
+      internalID: 736698539523977476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c1d78c6ff0d5e0800000000000000
+      internalID: -1886727402268014093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1120
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e165857052bf7e070800000000000000
+      internalID: 8135747388323681822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1120
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc771890b921b70800000000000000
+      internalID: 8868321081375050515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277cb0649281fdd10800000000000000
+      internalID: 2152465712454289266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f45fb9229d4500800000000000000
+      internalID: 382122251397690335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 560
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94807e6ab09441ef0800000000000000
+      internalID: -138405374148016055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 560
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c851abc5a40e02c0800000000000000
+      internalID: -4463625070545119035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39dbaefaa10d3b0800000000000000
+      internalID: -5489858602904742983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccbf56d1183a80a0800000000000000
+      internalID: -6878623831592813373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377173236e706f420800000000000000
+      internalID: 2663324914902570867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linfocito_activado_loop_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 560
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6d803245b5d6e60800000000000000
+      internalID: 7957116533556696780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 784a3799652f785498e6ef3c585eabfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":560.0,"y":560.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      linfocito_activado_loop_sheet_0: 588804228252796027
+      linfocito_activado_loop_sheet_1: 3120127143981330801
+      linfocito_activado_loop_sheet_10: -138405374148016055
+      linfocito_activado_loop_sheet_11: -4463625070545119035
+      linfocito_activado_loop_sheet_12: -5489858602904742983
+      linfocito_activado_loop_sheet_13: -6878623831592813373
+      linfocito_activado_loop_sheet_14: 2663324914902570867
+      linfocito_activado_loop_sheet_15: 7957116533556696780
+      linfocito_activado_loop_sheet_2: -1600108344043406444
+      linfocito_activado_loop_sheet_3: -8367978524986230504
+      linfocito_activado_loop_sheet_4: 736698539523977476
+      linfocito_activado_loop_sheet_5: -1886727402268014093
+      linfocito_activado_loop_sheet_6: 8135747388323681822
+      linfocito_activado_loop_sheet_7: 8868321081375050515
+      linfocito_activado_loop_sheet_8: 2152465712454289266
+      linfocito_activado_loop_sheet_9: 382122251397690335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

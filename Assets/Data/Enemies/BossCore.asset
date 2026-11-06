@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BossCore
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDataSo
   maxHealth: 10
-  deathVfx: {fileID: 8094843478169940566, guid: 070b535fb6c29414389223145931eecc, type: 3}
+  deathVfx: {fileID: 872542930143542916, guid: 8b3d606514b337c4aa36c8dd79e6c2cd, type: 3}
   score: 100
   lootMin: 1
   lootMax: 3

@@ -7,6 +7,7 @@ public class AntigenGate : MonoBehaviour
     [SerializeField] private RunProgressSo runProgressData;
     [SerializeField] private TMP_Text antigenText;
     [SerializeField] private GameObject antigenDoor;
+    [SerializeField] private Animator animator;
     private bool isPlayerInside;
     private bool isOpened;
 
@@ -62,6 +63,7 @@ public class AntigenGate : MonoBehaviour
         }
         antigenText.text = "";
         isOpened = true;
+        animator.Play(AnimatorStates.Activation,0,0f);
         antigenDoor.SetActive(false);
         OnGateOpened?.Invoke();
     }

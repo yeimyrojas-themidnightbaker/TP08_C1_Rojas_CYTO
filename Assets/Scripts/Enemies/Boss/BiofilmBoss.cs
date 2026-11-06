@@ -8,6 +8,8 @@ public class BiofilmBoss : MonoBehaviour
     [SerializeField] private Collider2D coreCollider;
     [SerializeField] private GameObject biofilmWall;
     [SerializeField] private ToxicCocci coreShooter;
+    [SerializeField] private Animator animator;
+    [SerializeField] private Animator animatorBody;
 
     private BossState state = BossState.Waiting;
     private int shieldsRemaining;
@@ -69,9 +71,14 @@ public class BiofilmBoss : MonoBehaviour
             case BossState.Exposed:
                 coreCollider.enabled = true;
                 coreShooter.enabled = true;
+                if(animator != null)
+                {
+                animator.Play(AnimatorStates.BossCoreExposed);
+                }
                 break;
             case BossState.Defeated:
                 biofilmWall.SetActive(false);
+                animatorBody.Play(AnimatorStates.BossBodyCollapse);
                 OnBossDefeated?.Invoke();
                 break;
         }

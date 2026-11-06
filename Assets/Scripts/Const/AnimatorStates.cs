@@ -16,4 +16,10 @@ public static class AnimatorStates
     public static readonly int ToxicAnticipation = Animator.StringToHash("ToxicAnticipation");
     public static readonly int ToxicShoot = Animator.StringToHash("ToxicShoot");
     public static readonly int ClusterSplit = Animator.StringToHash("ClusterSplit");
+    public static readonly int Activation = Animator.StringToHash("Activation");
+    public static readonly int BossCoreInside = Animator.StringToHash("BossCoreInside");
+    public static readonly int BossCoreExposed = Animator.StringToHash("BossCoreExposed");
+    public static readonly int ShieldCrack1 = Animator.StringToHash("ShieldCrack1");
+    public static readonly int ShieldCrack2 = Animator.StringToHash("ShieldCrack2");
+    public static readonly int BossBodyCollapse = Animator.StringToHash("BossBodyCollapse");
 }
