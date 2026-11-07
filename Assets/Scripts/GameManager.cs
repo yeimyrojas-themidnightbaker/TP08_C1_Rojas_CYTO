@@ -76,8 +76,6 @@ public class GameManager : MonoBehaviour
             capsuleBonus = playerHealth.CurrentHealth * Mathf.RoundToInt(levelData.PointsPerCapsule);
             runProgressData.AddScore(timeBonus + capsuleBonus);
         }
-        saveData.CommitRun(runProgressData.CurrentScore, runProgressData.CurrentAminoacid, elapsedTime, won);
-        playFab.SubmitScore(runProgressData.CurrentScore);
         gameResultsData.SetResult(won, elapsedTime, timeBonus, capsuleBonus);
 
         Invoke(nameof(LoadGameOver), gameData.EndDelay);
@@ -85,6 +83,9 @@ public class GameManager : MonoBehaviour
     }
     private void LoadGameOver()
     {
+        saveData.CommitRun(runProgressData.CurrentScore, runProgressData.CurrentAminoacid, elapsedTime, gameResultsData.Won);
+        playFab.SubmitScore(runProgressData.CurrentScore);
+
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneNames.GameOver);
     }
