@@ -1,0 +1,1752 @@
+fileFormatVersion: 2
+guid: 5ea6b7ab2aa14cd4b93d6615a27994b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2640779394615546929
+    second: howto_ring_sheet_0
+  - first:
+      213: 3118930746605428728
+    second: howto_ring_sheet_1
+  - first:
+      213: -5405417701704984519
+    second: howto_ring_sheet_2
+  - first:
+      213: -6966535658581397179
+    second: howto_ring_sheet_3
+  - first:
+      213: 8894586740946188149
+    second: howto_ring_sheet_4
+  - first:
+      213: 7497898812150485280
+    second: howto_ring_sheet_5
+  - first:
+      213: -3936648736416515017
+    second: howto_ring_sheet_6
+  - first:
+      213: -5349740376816019491
+    second: howto_ring_sheet_7
+  - first:
+      213: -7265944443680211906
+    second: howto_ring_sheet_8
+  - first:
+      213: -2568942055930934629
+    second: howto_ring_sheet_9
+  - first:
+      213: -8905107508647717357
+    second: howto_ring_sheet_10
+  - first:
+      213: -5322956799764373763
+    second: howto_ring_sheet_11
+  - first:
+      213: 2539856858706762585
+    second: howto_ring_sheet_12
+  - first:
+      213: 7051556873136421025
+    second: howto_ring_sheet_13
+  - first:
+      213: -9135471072741619166
+    second: howto_ring_sheet_14
+  - first:
+      213: -7057775272530992262
+    second: howto_ring_sheet_15
+  - first:
+      213: 8741749685490450519
+    second: howto_ring_sheet_16
+  - first:
+      213: -8266272240445110315
+    second: howto_ring_sheet_17
+  - first:
+      213: 733638751163040181
+    second: howto_ring_sheet_18
+  - first:
+      213: 750914265064656835
+    second: howto_ring_sheet_19
+  - first:
+      213: -5710076255302797057
+    second: howto_ring_sheet_20
+  - first:
+      213: 6839616767912390041
+    second: howto_ring_sheet_21
+  - first:
+      213: 7185590232581203633
+    second: howto_ring_sheet_22
+  - first:
+      213: -2557244853191246746
+    second: howto_ring_sheet_23
+  - first:
+      213: -6134146631031697242
+    second: howto_ring_sheet_24
+  - first:
+      213: -8746583612590275352
+    second: howto_ring_sheet_25
+  - first:
+      213: -6420901557000057006
+    second: howto_ring_sheet_26
+  - first:
+      213: 4745042097583091700
+    second: howto_ring_sheet_27
+  - first:
+      213: -6134641389671603737
+    second: howto_ring_sheet_28
+  - first:
+      213: 4418715295857812686
+    second: howto_ring_sheet_29
+  - first:
+      213: 3152770328421651580
+    second: howto_ring_sheet_30
+  - first:
+      213: 7461467023267210244
+    second: howto_ring_sheet_31
+  - first:
+      213: 6576583344022458534
+    second: howto_ring_sheet_32
+  - first:
+      213: 4707899953996613294
+    second: howto_ring_sheet_33
+  - first:
+      213: -5464916965601677789
+    second: howto_ring_sheet_34
+  - first:
+      213: 1053235690125349024
+    second: howto_ring_sheet_35
+  - first:
+      213: 5567323376240117225
+    second: howto_ring_sheet_36
+  - first:
+      213: 974685436924745926
+    second: howto_ring_sheet_37
+  - first:
+      213: 3180135941138846517
+    second: howto_ring_sheet_38
+  - first:
+      213: 4576048157492908350
+    second: howto_ring_sheet_39
+  - first:
+      213: 2750987326226392472
+    second: howto_ring_sheet_40
+  - first:
+      213: -7308381522352125346
+    second: howto_ring_sheet_41
+  - first:
+      213: -115515649490051405
+    second: howto_ring_sheet_42
+  - first:
+      213: 2598065329841917864
+    second: howto_ring_sheet_43
+  - first:
+      213: -2915586775250570720
+    second: howto_ring_sheet_44
+  - first:
+      213: 5154169242759972020
+    second: howto_ring_sheet_45
+  - first:
+      213: 1805746912901444827
+    second: howto_ring_sheet_46
+  - first:
+      213: 1024872893041904463
+    second: howto_ring_sheet_47
+  - first:
+      213: 8200576055346846957
+    second: howto_ring_sheet_48
+  - first:
+      213: 4258589104999517955
+    second: howto_ring_sheet_49
+  - first:
+      213: 2814881180574941635
+    second: howto_ring_sheet_50
+  - first:
+      213: -7027310412099604163
+    second: howto_ring_sheet_51
+  - first:
+      213: 8593493618933213043
+    second: howto_ring_sheet_52
+  - first:
+      213: -3121360366724637377
+    second: howto_ring_sheet_53
+  - first:
+      213: -6121392141950982878
+    second: howto_ring_sheet_54
+  - first:
+      213: -3314451557716223637
+    second: howto_ring_sheet_55
+  - first:
+      213: 5028492088676092834
+    second: howto_ring_sheet_56
+  - first:
+      213: 6203297652197913624
+    second: howto_ring_sheet_57
+  - first:
+      213: -8508352368244852210
+    second: howto_ring_sheet_58
+  - first:
+      213: 4464110026767742658
+    second: howto_ring_sheet_59
+  - first:
+      213: -4691719447634420654
+    second: howto_ring_sheet_60
+  - first:
+      213: -3024649454319430029
+    second: howto_ring_sheet_61
+  - first:
+      213: 3029231330487040261
+    second: howto_ring_sheet_62
+  - first:
+      213: 2820000212165607702
+    second: howto_ring_sheet_63
+  - first:
+      213: -1243584596269765140
+    second: howto_ring_sheet_64
+  - first:
+      213: -8190167365448813323
+    second: howto_ring_sheet_65
+  - first:
+      213: -1023608180368859651
+    second: howto_ring_sheet_66
+  - first:
+      213: -2022717021269058237
+    second: howto_ring_sheet_67
+  - first:
+      213: -1921435614183215228
+    second: howto_ring_sheet_68
+  - first:
+      213: -3320979577314328794
+    second: howto_ring_sheet_69
+  - first:
+      213: -7262442501472697868
+    second: howto_ring_sheet_70
+  - first:
+      213: -4819031957756189053
+    second: howto_ring_sheet_71
+  - first:
+      213: -5235900349356968053
+    second: howto_ring_sheet_72
+  - first:
+      213: 2949854932734284250
+    second: howto_ring_sheet_73
+  - first:
+      213: -4509808665098355398
+    second: howto_ring_sheet_74
+  - first:
+      213: 7795781032797979844
+    second: howto_ring_sheet_75
+  - first:
+      213: 9101930053610377357
+    second: howto_ring_sheet_76
+  - first:
+      213: 5860586643900454711
+    second: howto_ring_sheet_77
+  - first:
+      213: -1233165811879343247
+    second: howto_ring_sheet_78
+  - first:
+      213: -8523558989014802526
+    second: howto_ring_sheet_79
+  - first:
+      213: -8666436034519130290
+    second: howto_ring_sheet_80
+  - first:
+      213: -4747301650168468590
+    second: howto_ring_sheet_81
+  - first:
+      213: -8242552914618286012
+    second: howto_ring_sheet_82
+  - first:
+      213: -1841570130251621519
+    second: howto_ring_sheet_83
+  - first:
+      213: -8647872733861217491
+    second: howto_ring_sheet_84
+  - first:
+      213: 5914600911197265896
+    second: howto_ring_sheet_85
+  - first:
+      213: 6638211095450955947
+    second: howto_ring_sheet_86
+  - first:
+      213: 2814181723951015198
+    second: howto_ring_sheet_87
+  - first:
+      213: 4018814881081115041
+    second: howto_ring_sheet_88
+  - first:
+      213: 3569799985504567084
+    second: howto_ring_sheet_89
+  - first:
+      213: 5865834465976108630
+    second: howto_ring_sheet_90
+  - first:
+      213: 2266179114019738271
+    second: howto_ring_sheet_91
+  - first:
+      213: 3545251216815913791
+    second: howto_ring_sheet_92
+  - first:
+      213: -5874747026900325676
+    second: howto_ring_sheet_93
+  - first:
+      213: 7885176801672219169
+    second: howto_ring_sheet_94
+  - first:
+      213: 6219497415735619726
+    second: howto_ring_sheet_95
+  - first:
+      213: -169095680463255046
+    second: howto_ring_sheet_96
+  - first:
+      213: 1784722250298345775
+    second: howto_ring_sheet_97
+  - first:
+      213: -9100737038452973652
+    second: howto_ring_sheet_98
+  - first:
+      213: -6103690039711288100
+    second: howto_ring_sheet_99
+  - first:
+      213: 5078068988556256543
+    second: howto_ring_sheet_100
+  - first:
+      213: 3017475614587606780
+    second: howto_ring_sheet_101
+  - first:
+      213: -6051202797072073653
+    second: howto_ring_sheet_102
+  - first:
+      213: 8424261213351890289
+    second: howto_ring_sheet_103
+  - first:
+      213: -6854025956080899751
+    second: howto_ring_sheet_104
+  - first:
+      213: 248268151065876627
+    second: howto_ring_sheet_105
+  - first:
+      213: 5556529960777539240
+    second: howto_ring_sheet_106
+  - first:
+      213: -1188930512200124661
+    second: howto_ring_sheet_107
+  - first:
+      213: -2223338847593771561
+    second: howto_ring_sheet_108
+  - first:
+      213: 1708365585609781587
+    second: howto_ring_sheet_109
+  - first:
+      213: 3689128032801527271
+    second: howto_ring_sheet_110
+  - first:
+      213: 8605882540120494415
+    second: howto_ring_sheet_111
+  - first:
+      213: 5631736357682217950
+    second: howto_ring_sheet_112
+  - first:
+      213: -8352973329931675526
+    second: howto_ring_sheet_113
+  - first:
+      213: 170595977724264264
+    second: howto_ring_sheet_114
+  - first:
+      213: -8173440845848897958
+    second: howto_ring_sheet_115
+  - first:
+      213: 5790207403097059036
+    second: howto_ring_sheet_116
+  - first:
+      213: 2848299159149319730
+    second: howto_ring_sheet_117
+  - first:
+      213: -4990713169468570391
+    second: howto_ring_sheet_118
+  - first:
+      213: -3942043592181546051
+    second: howto_ring_sheet_119
+  - first:
+      213: -4549182830089846550
+    second: howto_ring_sheet_120
+  - first:
+      213: 5306004880839822347
+    second: howto_ring_sheet_121
+  - first:
+      213: -3289701414813867611
+    second: howto_ring_sheet_122
+  - first:
+      213: 5532226379612155906
+    second: howto_ring_sheet_123
+  - first:
+      213: 7843697920022533585
+    second: howto_ring_sheet_124
+  - first:
+      213: 364171132387879320
+    second: howto_ring_sheet_125
+  - first:
+      213: 7122976035418394950
+    second: howto_ring_sheet_126
+  - first:
+      213: -4875014210728855792
+    second: howto_ring_sheet_127
+  - first:
+      213: -4817427529788719189
+    second: howto_ring_sheet_128
+  - first:
+      213: 4539356738706186481
+    second: howto_ring_sheet_129
+  - first:
+      213: -4205402836012867400
+    second: howto_ring_sheet_130
+  - first:
+      213: 7759572192956710902
+    second: howto_ring_sheet_131
+  - first:
+      213: -4210427383551796584
+    second: howto_ring_sheet_132
+  - first:
+      213: 3185058955180369428
+    second: howto_ring_sheet_133
+  - first:
+      213: -3565229594281449664
+    second: howto_ring_sheet_134
+  - first:
+      213: 6277140336532341304
+    second: howto_ring_sheet_135
+  - first:
+      213: -5375984810340808107
+    second: howto_ring_sheet_136
+  - first:
+      213: 2127148162349492681
+    second: howto_ring_sheet_137
+  - first:
+      213: -7100200365430066142
+    second: howto_ring_sheet_138
+  - first:
+      213: -7784797664804372663
+    second: howto_ring_sheet_139
+  - first:
+      213: 1619900981096216882
+    second: howto_ring_sheet_140
+  - first:
+      213: -8679743836631771882
+    second: howto_ring_sheet_141
+  - first:
+      213: -8607272298197983021
+    second: howto_ring_sheet_142
+  - first:
+      213: -2808622976188628762
+    second: howto_ring_sheet_143
+  - first:
+      213: -6255052083119720572
+    second: howto_ring_sheet_144
+  - first:
+      213: 6747080527416476511
+    second: howto_ring_sheet_145
+  - first:
+      213: 4574212642604040458
+    second: howto_ring_sheet_146
+  - first:
+      213: -4352487412182259646
+    second: howto_ring_sheet_147
+  - first:
+      213: -1326844575410071956
+    second: howto_ring_sheet_148
+  - first:
+      213: 5678020062943139418
+    second: howto_ring_sheet_149
+  - first:
+      213: 3366709418442387434
+    second: howto_ring_sheet_150
+  - first:
+      213: -456273609756035254
+    second: howto_ring_sheet_151
+  - first:
+      213: 12180748044014764
+    second: howto_ring_sheet_152
+  - first:
+      213: -8783228768821229068
+    second: howto_ring_sheet_153
+  - first:
+      213: -3826564636708717794
+    second: howto_ring_sheet_154
+  - first:
+      213: 4192165594219200748
+    second: howto_ring_sheet_155
+  - first:
+      213: -3280014159570355023
+    second: howto_ring_sheet_156
+  - first:
+      213: 7523399335565746157
+    second: howto_ring_sheet_157
+  - first:
+      213: 3422891392756860099
+    second: howto_ring_sheet_158
+  - first:
+      213: 9185696206677286585
+    second: howto_ring_sheet_159
+  - first:
+      213: 5723707086386086618
+    second: howto_ring_sheet_160
+  - first:
+      213: -455901113436128211
+    second: howto_ring_sheet_161
+  - first:
+      213: 3252350821642354695
+    second: howto_ring_sheet_162
+  - first:
+      213: 2699647793755368491
+    second: howto_ring_sheet_163
+  - first:
+      213: -4276988939717500410
+    second: howto_ring_sheet_164
+  - first:
+      213: 8652488485476214693
+    second: howto_ring_sheet_165
+  - first:
+      213: -3202100521524255189
+    second: howto_ring_sheet_166
+  - first:
+      213: 6076458490106776475
+    second: howto_ring_sheet_167
+  - first:
+      213: 2654740758093213023
+    second: howto_ring_sheet_168
+  - first:
+      213: 2268276447988172936
+    second: howto_ring_sheet_169
+  - first:
+      213: 4745801055541456719
+    second: howto_ring_sheet_170
+  - first:
+      213: 3103272351908995114
+    second: howto_ring_sheet_171
+  - first:
+      213: 4007865399352191023
+    second: howto_ring_sheet_172
+  - first:
+      213: -304433733725176016
+    second: howto_ring_sheet_173
+  - first:
+      213: -9077770117005208839
+    second: howto_ring_sheet_174
+  - first:
+      213: -229143823110774542
+    second: howto_ring_sheet_175
+  - first:
+      213: 8019217550117083092
+    second: howto_ring_sheet_176
+  - first:
+      213: 3275758480662062328
+    second: howto_ring_sheet_177
+  - first:
+      213: 4094542274965788347
+    second: howto_ring_sheet_178
+  - first:
+      213: -7375658210511287515
+    second: howto_ring_sheet_179
+  - first:
+      213: -1065229672967430614
+    second: howto_ring_sheet_180
+  - first:
+      213: 282881843997193818
+    second: howto_ring_sheet_181
+  - first:
+      213: 3755531982604106886
+    second: howto_ring_sheet_182
+  - first:
+      213: 3860038114029400182
+    second: howto_ring_sheet_183
+  - first:
+      213: 4807546434326761405
+    second: howto_ring_sheet_184
+  - first:
+      213: 1008870896564503729
+    second: howto_ring_sheet_185
+  - first:
+      213: -6531744464662467539
+    second: howto_ring_sheet_186
+  - first:
+      213: 5556032896806256888
+    second: howto_ring_sheet_187
+  - first:
+      213: -5796817698210278821
+    second: howto_ring_sheet_188
+  - first:
+      213: 1159214732404860663
+    second: howto_ring_sheet_189
+  - first:
+      213: 7911468762281472295
+    second: howto_ring_sheet_190
+  - first:
+      213: 8300187165160408144
+    second: howto_ring_sheet_191
+  - first:
+      213: 2861880620684155751
+    second: howto_ring_sheet_192
+  - first:
+      213: -4758696344035931341
+    second: howto_ring_sheet_193
+  - first:
+      213: -1109157782761005466
+    second: howto_ring_sheet_194
+  - first:
+      213: -8646226914023720049
+    second: howto_ring_sheet_195
+  - first:
+      213: -8119468684082676266
+    second: howto_ring_sheet_196
+  - first:
+      213: 3218338186848403871
+    second: howto_ring_sheet_197
+  - first:
+      213: 143891632693753671
+    second: howto_ring_sheet_198
+  - first:
+      213: -3336785636845608038
+    second: howto_ring_sheet_199
+  - first:
+      213: -6697868233084088024
+    second: howto_ring_sheet_200
+  - first:
+      213: -8619567377239323857
+    second: howto_ring_sheet_201
+  - first:
+      213: 4762803534880079355
+    second: howto_ring_sheet_202
+  - first:
+      213: 704162785260984143
+    second: howto_ring_sheet_203
+  - first:
+      213: -6873189777540220764
+    second: howto_ring_sheet_204
+  - first:
+      213: -1525384033901187446
+    second: howto_ring_sheet_205
+  - first:
+      213: -3497612645369346017
+    second: howto_ring_sheet_206
+  - first:
+      213: -6379972325682923108
+    second: howto_ring_sheet_207
+  - first:
+      213: -1827339345521825174
+    second: howto_ring_sheet_208
+  - first:
+      213: -4257146561505732800
+    second: howto_ring_sheet_209
+  - first:
+      213: -4966891522961986115
+    second: howto_ring_sheet_210
+  - first:
+      213: 8379333818849018662
+    second: howto_ring_sheet_211
+  - first:
+      213: -7615714723562101025
+    second: howto_ring_sheet_212
+  - first:
+      213: 8235173962473175271
+    second: howto_ring_sheet_213
+  - first:
+      213: -8153088815916909440
+    second: howto_ring_sheet_214
+  - first:
+      213: -6195742896487349322
+    second: howto_ring_sheet_215
+  - first:
+      213: 603436182232538426
+    second: howto_ring_sheet_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: howto_ring_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341b323edee5a420800000000000000
+      internalID: 2640779394615546929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffd57e3dfaa84b20800000000000000
+      internalID: 3118930746605428728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938144b4d391cf4b0800000000000000
+      internalID: -5405417701704984519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541f9239ab4e15f90800000000000000
+      internalID: -6966535658581397179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5773ffde38bef6b70800000000000000
+      internalID: 8894586740946188149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0219d0c7e33ed0860800000000000000
+      internalID: 7497898812150485280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c376cd4d63e59c0800000000000000
+      internalID: -3936648736416515017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3200
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7115fa877e1c5b0800000000000000
+      internalID: -5349740376816019491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb7bc660e2a2b90800000000000000
+      internalID: -7265944443680211906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9accab9fc8495cd0800000000000000
+      internalID: -2568942055930934629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3169364f6e3ba6480800000000000000
+      internalID: -8905107508647717357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe5b4b2efe0126b0800000000000000
+      internalID: -5322956799764373763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b5e833b526f3320800000000000000
+      internalID: 2539856858706762585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8b2c88d992cd160800000000000000
+      internalID: 7051556873136421025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a016d0679483180800000000000000
+      internalID: -9135471072741619166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73214888cebd0e90800000000000000
+      internalID: -7057775272530992262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508a0fe50fe05970800000000000000
+      internalID: 8741749685490450519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7c893a13d484d80800000000000000
+      internalID: -8266272240445110315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c884ae886e2a00800000000000000
+      internalID: 733638751163040181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfc3f9ab88cb6a00800000000000000
+      internalID: 750914265064656835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8b84a26ebb1c0b0800000000000000
+      internalID: -5710076255302797057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d293b66333bee50800000000000000
+      internalID: 6839616767912390041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6e482ee3858b360800000000000000
+      internalID: 7185590232581203633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cf6d9da57d28cd0800000000000000
+      internalID: -2557244853191246746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05231a3222fdaa0800000000000000
+      internalID: -6134146631031697242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4cd45bb84ed9680800000000000000
+      internalID: -8746583612590275352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4245ad0064e6a0800000000000000
+      internalID: -6420901557000057006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffe6beb5a6c9d140800000000000000
+      internalID: 4745042097583091700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12738a8206ddaa0800000000000000
+      internalID: -6134641389671603737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4a035762e625d30800000000000000
+      internalID: 4418715295857812686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d6fbd8e3e0cb20800000000000000
+      internalID: 3152770328421651580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042221a9b47c8760800000000000000
+      internalID: 7461467023267210244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0953805b7b44b50800000000000000
+      internalID: 6576583344022458534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6cb0c8012d55140800000000000000
+      internalID: 4707899953996613294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e6e4269f6b824b0800000000000000
+      internalID: -5464916965601677789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a05fa6a748dd9e00800000000000000
+      internalID: 1053235690125349024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5458e1d1b134d40800000000000000
+      internalID: 5567323376240117225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c855a3ad37c68d00800000000000000
+      internalID: 974685436924745926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53398051acc122c20800000000000000
+      internalID: 3180135941138846517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311276ed83618f30800000000000000
+      internalID: 4576048157492908350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_ring_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956359d5687d2620800000000000000
+      internalID: 2750987326226392472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d7c218736c7e4e645b6832d90f30d2aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":640.0,"y":640.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      howto_ring_sheet_0: 2640779394615546929
+      howto_ring_sheet_1: 3118930746605428728
+      howto_ring_sheet_10: -8905107508647717357
+      howto_ring_sheet_11: -5322956799764373763
+      howto_ring_sheet_12: 2539856858706762585
+      howto_ring_sheet_13: 7051556873136421025
+      howto_ring_sheet_14: -9135471072741619166
+      howto_ring_sheet_15: -7057775272530992262
+      howto_ring_sheet_16: 8741749685490450519
+      howto_ring_sheet_17: -8266272240445110315
+      howto_ring_sheet_18: 733638751163040181
+      howto_ring_sheet_19: 750914265064656835
+      howto_ring_sheet_2: -5405417701704984519
+      howto_ring_sheet_20: -5710076255302797057
+      howto_ring_sheet_21: 6839616767912390041
+      howto_ring_sheet_22: 7185590232581203633
+      howto_ring_sheet_23: -2557244853191246746
+      howto_ring_sheet_24: -6134146631031697242
+      howto_ring_sheet_25: -8746583612590275352
+      howto_ring_sheet_26: -6420901557000057006
+      howto_ring_sheet_27: 4745042097583091700
+      howto_ring_sheet_28: -6134641389671603737
+      howto_ring_sheet_29: 4418715295857812686
+      howto_ring_sheet_3: -6966535658581397179
+      howto_ring_sheet_30: 3152770328421651580
+      howto_ring_sheet_31: 7461467023267210244
+      howto_ring_sheet_32: 6576583344022458534
+      howto_ring_sheet_33: 4707899953996613294
+      howto_ring_sheet_34: -5464916965601677789
+      howto_ring_sheet_35: 1053235690125349024
+      howto_ring_sheet_36: 5567323376240117225
+      howto_ring_sheet_37: 974685436924745926
+      howto_ring_sheet_38: 3180135941138846517
+      howto_ring_sheet_39: 4576048157492908350
+      howto_ring_sheet_4: 8894586740946188149
+      howto_ring_sheet_40: 2750987326226392472
+      howto_ring_sheet_5: 7497898812150485280
+      howto_ring_sheet_6: -3936648736416515017
+      howto_ring_sheet_7: -5349740376816019491
+      howto_ring_sheet_8: -7265944443680211906
+      howto_ring_sheet_9: -2568942055930934629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class UIMainMenu : MonoBehaviour
 {
     [SerializeField] private UIDataSo uiData;
+    [SerializeField] private UIHowToPlay uiHowToPlay;
 
     [Header("CanvasGroup")]
     [SerializeField] private CanvasGroup mainPanel;
@@ -84,7 +85,11 @@ btnExit.gameObject.SetActive(false);
     private void OnBtnSettingsClicked() => SwitchPanel(mainPanel, settingsPanel);
 
     private void OnBtnCreditsClicked() => SwitchPanel(mainPanel, creditsPanel);
-    private void OnBtnHowToPlayClicked() => SwitchPanel(mainPanel, howToPlayPanel);
+    private void OnBtnHowToPlayClicked()
+    {
+        SwitchPanel(mainPanel, howToPlayPanel);
+        uiHowToPlay.Open();
+    }
     private void OnBtnShopClicked() => SwitchPanel(mainPanel, shopPanel);
     private void OnBtnExitClicked()
     {

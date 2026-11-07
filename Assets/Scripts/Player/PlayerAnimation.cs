@@ -1,3 +1,4 @@
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class PlayerAnimation : MonoBehaviour
@@ -8,6 +9,7 @@ public class PlayerAnimation : MonoBehaviour
     [SerializeField] private PlayerAttack playerAttack;
     [SerializeField] private PlayerShooter playerShooter;
     [SerializeField] private PlayerHealth playerHealth;
+    [SerializeField] private PlayerHealing playerHealing;
 
     private const float WalkThreshold = 0.1f;
     private const float JumpThreshold = 0.5f;
@@ -58,7 +60,11 @@ public class PlayerAnimation : MonoBehaviour
         }
         else
         {
-            if (Mathf.Abs(rb.linearVelocity.x) > WalkThreshold)
+            if(playerHealing.IsHealing)
+            {
+                PlayAnimation(AnimatorStates.Heal);
+            }
+            else if (Mathf.Abs(rb.linearVelocity.x) > WalkThreshold)
             {
                 PlayAnimation(AnimatorStates.Walk);
             }

@@ -1,0 +1,1057 @@
+fileFormatVersion: 2
+guid: 314ae49a9f089aa4f9550559c05f02ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6456271887731145309
+    second: howto_shoot_sheet_0
+  - first:
+      213: 6090924278566080114
+    second: howto_shoot_sheet_1
+  - first:
+      213: 1482392635118704056
+    second: howto_shoot_sheet_2
+  - first:
+      213: 5580065714317368233
+    second: howto_shoot_sheet_3
+  - first:
+      213: -4128544404695913524
+    second: howto_shoot_sheet_4
+  - first:
+      213: -14420417486043717
+    second: howto_shoot_sheet_5
+  - first:
+      213: -6896379280647163685
+    second: howto_shoot_sheet_6
+  - first:
+      213: -5430039169532701640
+    second: howto_shoot_sheet_7
+  - first:
+      213: -3102538754058669008
+    second: howto_shoot_sheet_8
+  - first:
+      213: 8545128842321236452
+    second: howto_shoot_sheet_9
+  - first:
+      213: -588284892135468317
+    second: howto_shoot_sheet_10
+  - first:
+      213: 1400998189679451347
+    second: howto_shoot_sheet_11
+  - first:
+      213: 5557083954255146275
+    second: howto_shoot_sheet_12
+  - first:
+      213: -1452050528092875307
+    second: howto_shoot_sheet_13
+  - first:
+      213: 569976933472984684
+    second: howto_shoot_sheet_14
+  - first:
+      213: 1203206759876678912
+    second: howto_shoot_sheet_15
+  - first:
+      213: 2598514088769670313
+    second: howto_shoot_sheet_16
+  - first:
+      213: 4995787585446059590
+    second: howto_shoot_sheet_17
+  - first:
+      213: 8986701482020952408
+    second: howto_shoot_sheet_18
+  - first:
+      213: 2045604751663796925
+    second: howto_shoot_sheet_19
+  - first:
+      213: 403019794447687926
+    second: howto_shoot_sheet_20
+  - first:
+      213: -2049079911231375557
+    second: howto_shoot_sheet_21
+  - first:
+      213: -5788357226691922352
+    second: howto_shoot_sheet_22
+  - first:
+      213: 8041038794628702180
+    second: howto_shoot_sheet_23
+  - first:
+      213: 3306777598046453127
+    second: howto_shoot_sheet_24
+  - first:
+      213: 3688879674369129820
+    second: howto_shoot_sheet_25
+  - first:
+      213: -3630373915156727783
+    second: howto_shoot_sheet_26
+  - first:
+      213: -3621358063912668280
+    second: howto_shoot_sheet_27
+  - first:
+      213: 5154056658831441550
+    second: howto_shoot_sheet_28
+  - first:
+      213: -5312376241265818603
+    second: howto_shoot_sheet_29
+  - first:
+      213: 5059702742930129483
+    second: howto_shoot_sheet_30
+  - first:
+      213: -7587309532436411970
+    second: howto_shoot_sheet_31
+  - first:
+      213: -2866657684549406341
+    second: howto_shoot_sheet_32
+  - first:
+      213: -3907859342986235334
+    second: howto_shoot_sheet_33
+  - first:
+      213: 7609960354343819646
+    second: howto_shoot_sheet_34
+  - first:
+      213: -6965479526401566036
+    second: howto_shoot_sheet_35
+  - first:
+      213: -5543547281542150274
+    second: howto_shoot_sheet_36
+  - first:
+      213: -5995736551361104270
+    second: howto_shoot_sheet_37
+  - first:
+      213: 8033126571239351225
+    second: howto_shoot_sheet_38
+  - first:
+      213: -8709517584083947236
+    second: howto_shoot_sheet_39
+  - first:
+      213: -3766819631186779929
+    second: howto_shoot_sheet_40
+  - first:
+      213: -2320005459839729211
+    second: howto_shoot_sheet_41
+  - first:
+      213: -1050181028762094595
+    second: howto_shoot_sheet_42
+  - first:
+      213: -6493766599286803831
+    second: howto_shoot_sheet_43
+  - first:
+      213: -6282645105119138211
+    second: howto_shoot_sheet_44
+  - first:
+      213: -1712500203034315656
+    second: howto_shoot_sheet_45
+  - first:
+      213: 6541972100454171400
+    second: howto_shoot_sheet_46
+  - first:
+      213: 5141519904263810518
+    second: howto_shoot_sheet_47
+  - first:
+      213: 1546981061417831407
+    second: howto_shoot_sheet_48
+  - first:
+      213: -995772996839491367
+    second: howto_shoot_sheet_49
+  - first:
+      213: -8950344009941262232
+    second: howto_shoot_sheet_50
+  - first:
+      213: -3830633046654459274
+    second: howto_shoot_sheet_51
+  - first:
+      213: -8091422579120673924
+    second: howto_shoot_sheet_52
+  - first:
+      213: -4971130127624703975
+    second: howto_shoot_sheet_53
+  - first:
+      213: -4287597669203839445
+    second: howto_shoot_sheet_54
+  - first:
+      213: 645331569975419985
+    second: howto_shoot_sheet_55
+  - first:
+      213: -7606613405766794886
+    second: howto_shoot_sheet_56
+  - first:
+      213: -3126516427251041079
+    second: howto_shoot_sheet_57
+  - first:
+      213: 8869401737999613826
+    second: howto_shoot_sheet_58
+  - first:
+      213: 5040335229643141781
+    second: howto_shoot_sheet_59
+  - first:
+      213: -1022222779357195118
+    second: howto_shoot_sheet_60
+  - first:
+      213: 7598321675507580625
+    second: howto_shoot_sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: howto_shoot_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3e893319499950800000000000000
+      internalID: 6456271887731145309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ecbb93c5f478450800000000000000
+      internalID: 6090924278566080114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d7e16f34829410800000000000000
+      internalID: 1482392635118704056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1935e330607d40800000000000000
+      internalID: 5580065714317368233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6ca6ecb674b6c0800000000000000
+      internalID: -4128544404695913524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54b3ae4b4cccff0800000000000000
+      internalID: -14420417486043717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd079a435932b40a0800000000000000
+      internalID: -6896379280647163685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 786
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834db871520a4a4b0800000000000000
+      internalID: -5430039169532701640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034337ee07191f4d0800000000000000
+      internalID: -3102538754058669008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e190867865669670800000000000000
+      internalID: 8545128842321236452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e25989e10ef5d7f0800000000000000
+      internalID: -588284892135468317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc1fc24e68517310800000000000000
+      internalID: 1400998189679451347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da668e96abe1d40800000000000000
+      internalID: 5557083954255146275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51b1decb749dbe0800000000000000
+      internalID: -1452050528092875307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed2d94007f8e700800000000000000
+      internalID: 569976933472984684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 524
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0055cc95c26a2b010800000000000000
+      internalID: 1203206759876678912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acc6f4dbc6cf0420800000000000000
+      internalID: 2598514088769670313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e91d3175a945540800000000000000
+      internalID: 4995787585446059590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859d552626d27bc70800000000000000
+      internalID: 8986701482020952408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db295cdfea2736c10800000000000000
+      internalID: 2045604751663796925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f061852e50d79500800000000000000
+      internalID: 403019794447687926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b373aae5da43093e0800000000000000
+      internalID: -2049079911231375557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05676f535cf9bafa0800000000000000
+      internalID: -5788357226691922352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 262
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef9af23e22879f60800000000000000
+      internalID: 8041038794628702180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d37c294b804ed20800000000000000
+      internalID: 3306777598046453127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d3ee1f488813330800000000000000
+      internalID: 3688879674369129820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9183d31a8225e9dc0800000000000000
+      internalID: -3630373915156727783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833df3170a5ebdc0800000000000000
+      internalID: -3621358063912668280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e72ed4933e68740800000000000000
+      internalID: 5154056658831441550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514402a64f5a646b0800000000000000
+      internalID: -5312376241265818603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howto_shoot_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 470
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b428b6556dca73640800000000000000
+      internalID: 5059702742930129483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 934ec607fed33a042a7fe542326bd7d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":470.0,"y":262.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      howto_shoot_sheet_0: 6456271887731145309
+      howto_shoot_sheet_1: 6090924278566080114
+      howto_shoot_sheet_10: -588284892135468317
+      howto_shoot_sheet_11: 1400998189679451347
+      howto_shoot_sheet_12: 5557083954255146275
+      howto_shoot_sheet_13: -1452050528092875307
+      howto_shoot_sheet_14: 569976933472984684
+      howto_shoot_sheet_15: 1203206759876678912
+      howto_shoot_sheet_16: 2598514088769670313
+      howto_shoot_sheet_17: 4995787585446059590
+      howto_shoot_sheet_18: 8986701482020952408
+      howto_shoot_sheet_19: 2045604751663796925
+      howto_shoot_sheet_2: 1482392635118704056
+      howto_shoot_sheet_20: 403019794447687926
+      howto_shoot_sheet_21: -2049079911231375557
+      howto_shoot_sheet_22: -5788357226691922352
+      howto_shoot_sheet_23: 8041038794628702180
+      howto_shoot_sheet_24: 3306777598046453127
+      howto_shoot_sheet_25: 3688879674369129820
+      howto_shoot_sheet_26: -3630373915156727783
+      howto_shoot_sheet_27: -3621358063912668280
+      howto_shoot_sheet_28: 5154056658831441550
+      howto_shoot_sheet_29: -5312376241265818603
+      howto_shoot_sheet_3: 5580065714317368233
+      howto_shoot_sheet_30: 5059702742930129483
+      howto_shoot_sheet_4: -4128544404695913524
+      howto_shoot_sheet_5: -14420417486043717
+      howto_shoot_sheet_6: -6896379280647163685
+      howto_shoot_sheet_7: -5430039169532701640
+      howto_shoot_sheet_8: -3102538754058669008
+      howto_shoot_sheet_9: 8545128842321236452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
