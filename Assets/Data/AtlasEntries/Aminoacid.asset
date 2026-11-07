@@ -16,6 +16,6 @@ MonoBehaviour:
   entryIcon: {fileID: 4377607569369467234, guid: 8252006ef55532548adec443a182f892, type: 3}
   displayName: Aminoacid
   description: The building blocks of proteins. When the macrophage digests bacteria,
-    it recovers their amino acids. Back in the bone marrow, they become raw material
+    it recovers their aminoacids. Back in the bone marrow, they become raw material
     for stronger immune cells.
   gameHint: Spend them in the shop.
