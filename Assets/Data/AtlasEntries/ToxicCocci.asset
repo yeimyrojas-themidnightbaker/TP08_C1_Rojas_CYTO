@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ToxicCocci
   m_EditorClassIdentifier: Assembly-CSharp::AtlasEntrySo
   entryType: 6
-  entryIcon: {fileID: 9077541527408364826, guid: 29e8c41cbc9399249a9dc0f012f99232, type: 3}
+  entryIcon: {fileID: 789273950606872867, guid: 26633e88f3d7aff47907d8095ccfacf5, type: 3}
   displayName: Toxic Cocci
   description: Staphylococcus aureus releases toxins, like leukocidins, that punch
     holes in immune cells. These cocci spit them at a distance, so keep moving and

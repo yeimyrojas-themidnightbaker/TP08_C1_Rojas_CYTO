@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: f9530dd783e016944939466fa2d85818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2631136246675124772
+    second: BG_Capillary_L2_Mid_0
+  - first:
+      213: -1481089961076045115
+    second: BG_Capillary_L2_Mid_1
+  - first:
+      213: 6489940235214234688
+    second: BG_Capillary_L2_Mid_2
+  - first:
+      213: 2408101390489856250
+    second: BG_Capillary_L2_Mid_3
+  - first:
+      213: -3049966990805766820
+    second: BG_Capillary_L2_Mid_4
+  - first:
+      213: -8728075121978204269
+    second: BG_Capillary_L2_Mid_5
+  - first:
+      213: 4548720162747342872
+    second: BG_Capillary_L2_Mid_6
+  - first:
+      213: -8153412119030506792
+    second: BG_Capillary_L2_Mid_7
+  - first:
+      213: -761644157041673706
+    second: BG_Capillary_L2_Mid_8
+  - first:
+      213: -6848332496662840200
+    second: BG_Capillary_L2_Mid_9
+  - first:
+      213: 5516330668721709379
+    second: BG_Capillary_L2_Mid_10
+  - first:
+      213: -6616852011425999807
+    second: BG_Capillary_L2_Mid_11
+  - first:
+      213: -7599751334089911992
+    second: BG_Capillary_L2_Mid_12
+  - first:
+      213: -2182251078291012085
+    second: BG_Capillary_L2_Mid_13
+  - first:
+      213: -9168682388737108171
+    second: BG_Capillary_L2_Mid_14
+  - first:
+      213: 4502420026502791656
+    second: BG_Capillary_L2_Mid_15
+  - first:
+      213: 6279968040557336257
+    second: BG_Capillary_L2_Mid_16
+  - first:
+      213: -3252002602648454679
+    second: BG_Capillary_L2_Mid_17
+  - first:
+      213: 8317529914248746858
+    second: BG_Capillary_L2_Mid_18
+  - first:
+      213: 4860358051056254172
+    second: BG_Capillary_L2_Mid_19
+  - first:
+      213: 4833104969746161506
+    second: BG_Capillary_L2_Mid_20
+  - first:
+      213: 2283229014202738327
+    second: BG_Capillary_L2_Mid_21
+  - first:
+      213: 4275673195560226363
+    second: BG_Capillary_L2_Mid_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 67.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 993
+        width: 129
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b9bad97ca38420800000000000000
+      internalID: 2631136246675124772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_1
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 960
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca4aad078c127be0800000000000000
+      internalID: -1481089961076045115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_2
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 977
+        width: 149
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044a57d3246e01a50800000000000000
+      internalID: 6489940235214234688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_3
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 941
+        width: 125
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a54bb47b4b6120800000000000000
+      internalID: 2408101390489856250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 901
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dea586e275ca5d0800000000000000
+      internalID: -3049966990805766820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 832
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f909d7be5afd680800000000000000
+      internalID: -8728075121978204269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_6
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 826
+        width: 131
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810663b43ec402f30800000000000000
+      internalID: 4548720162747342872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da52d950e249de80800000000000000
+      internalID: -8153412119030506792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 696
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a774eaca81e65f0800000000000000
+      internalID: -761644157041673706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 719
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cb5a8d0e5d5f0a0800000000000000
+      internalID: -6848332496662840200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_10
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 659
+        width: 139
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34120c43481fd8c40800000000000000
+      internalID: 5516330668721709379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_11
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 696
+        width: 114
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144df9737283c24a0800000000000000
+      internalID: -6616852011425999807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_12
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 680
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84115464d62488690800000000000000
+      internalID: -7599751334089911992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 623
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0640c3d43617b1e0800000000000000
+      internalID: -2182251078291012085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 564
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537d1f8f1fb42c080800000000000000
+      internalID: -9168682388737108171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_15
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 574
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1cd45c82fcb7e30800000000000000
+      internalID: 4502420026502791656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 425
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d93209ade62750800000000000000
+      internalID: 6279968040557336257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 426
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e93e7cdcd09ed2d0800000000000000
+      internalID: -3252002602648454679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_18
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 425
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a675b7b836dcd6370800000000000000
+      internalID: 8317529914248746858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_19
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 228
+        width: 135
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcfa6a65e5737340800000000000000
+      internalID: 4860358051056254172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f15e3fc53a21340800000000000000
+      internalID: 4833104969746161506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 107
+        width: 133
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966b6cf0b8afaf10800000000000000
+      internalID: 2283229014202738327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Capillary_L2_Mid_22
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 7
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ec60d2e1e365b30800000000000000
+      internalID: 4275673195560226363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BG_Capillary_L2_Mid_0: 2631136246675124772
+      BG_Capillary_L2_Mid_1: -1481089961076045115
+      BG_Capillary_L2_Mid_10: 5516330668721709379
+      BG_Capillary_L2_Mid_11: -6616852011425999807
+      BG_Capillary_L2_Mid_12: -7599751334089911992
+      BG_Capillary_L2_Mid_13: -2182251078291012085
+      BG_Capillary_L2_Mid_14: -9168682388737108171
+      BG_Capillary_L2_Mid_15: 4502420026502791656
+      BG_Capillary_L2_Mid_16: 6279968040557336257
+      BG_Capillary_L2_Mid_17: -3252002602648454679
+      BG_Capillary_L2_Mid_18: 8317529914248746858
+      BG_Capillary_L2_Mid_19: 4860358051056254172
+      BG_Capillary_L2_Mid_2: 6489940235214234688
+      BG_Capillary_L2_Mid_20: 4833104969746161506
+      BG_Capillary_L2_Mid_21: 2283229014202738327
+      BG_Capillary_L2_Mid_22: 4275673195560226363
+      BG_Capillary_L2_Mid_3: 2408101390489856250
+      BG_Capillary_L2_Mid_4: -3049966990805766820
+      BG_Capillary_L2_Mid_5: -8728075121978204269
+      BG_Capillary_L2_Mid_6: 4548720162747342872
+      BG_Capillary_L2_Mid_7: -8153412119030506792
+      BG_Capillary_L2_Mid_8: -761644157041673706
+      BG_Capillary_L2_Mid_9: -6848332496662840200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

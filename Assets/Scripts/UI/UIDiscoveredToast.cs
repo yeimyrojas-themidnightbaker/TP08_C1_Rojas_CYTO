@@ -33,7 +33,6 @@ public class UIDiscoveredToast : MonoBehaviour
 
     private void HandleShowDiscoveredToast(AtlasEntrySo entry)
     {
-        Debug.Log("Toast: " + entry.DisplayName);
         if (currentToast != null)
         {
             StopCoroutine(currentToast);

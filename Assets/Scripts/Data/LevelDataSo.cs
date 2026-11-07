@@ -10,4 +10,6 @@ public class LevelDataSo : ScriptableObject
     public float PointsPerCapsule => pointsPerCapsule;
     [SerializeField] private AudioClip clipGate;
     public AudioClip ClipGate => clipGate;
+    [SerializeField] private float backgroundFadeDuration = 1.2f;
+    public float BackgroundFadeDuration => backgroundFadeDuration;
 }
