@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8430ac498c2c5a2478e060996d6a710f, type: 3}
+  m_Name: ExtraJump
+  m_EditorClassIdentifier: Assembly-CSharp::AtlasEntrySo
+  entryType: 2
+  entryIcon: {fileID: -4321947690195729487, guid: 8d6182fa39b43754e82c2ad960f0085a, type: 3}
+  displayName: Calcium Pulse
+  description: "Inside the cell, a sudden rise in calcium works as a signal that
+    triggers movement and phagocytosis. In the game it gives you an extra jump; in
+    real life it gives the cell the \u201Cgo\u201D to reach out and grab its target."
+  gameHint: Extra jump for a while.

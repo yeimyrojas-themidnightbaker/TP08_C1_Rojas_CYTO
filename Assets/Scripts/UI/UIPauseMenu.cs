@@ -16,6 +16,7 @@ public class UIPauseMenu : MonoBehaviour
     [SerializeField] private Button btnMenu;
     [SerializeField] private Button btnHowToPlay;
     [SerializeField] private Button btnBackHowToPlay;
+    [SerializeField] private Button btnBackSettings;
     [SerializeField] private Button btnSettings;
 
     private void Start()
@@ -33,6 +34,7 @@ public class UIPauseMenu : MonoBehaviour
         btnHowToPlay.onClick.AddListener(OnBtnHowToPlayClicked);
         btnBackHowToPlay.onClick.AddListener(OnBtnBackHowToPlayClicked);
         btnSettings.onClick.AddListener(OnBtnSettingsClicked);
+        btnBackSettings.onClick.AddListener(OnBtnBackSettingsClicked);
     }
 
     private void OnDisable()
@@ -44,6 +46,7 @@ public class UIPauseMenu : MonoBehaviour
         btnHowToPlay.onClick.RemoveListener(OnBtnHowToPlayClicked);
         btnBackHowToPlay.onClick.RemoveListener(OnBtnBackHowToPlayClicked);
         btnSettings.onClick.RemoveListener(OnBtnSettingsClicked);
+        btnBackSettings.onClick.AddListener(OnBtnBackSettingsClicked);
     }
 
 
@@ -77,15 +80,20 @@ public class UIPauseMenu : MonoBehaviour
         howToPlayPanel.SetActive(true);
         uiHowToPlay.Open();
     }
+    private void OnBtnSettingsClicked()
+    {
+        pausePanel.SetActive(false);
+        settingsPanel.SetActive(true);
+    }
+    private void OnBtnBackSettingsClicked()
+    {
+        pausePanel.SetActive(true);
+        settingsPanel.SetActive(false);
+    }
 
     private void OnBtnBackHowToPlayClicked()
     {
         pausePanel.SetActive(true);
         howToPlayPanel.SetActive(false);
-    }
-    private void OnBtnSettingsClicked()
-    {
-        pausePanel.SetActive(false);
-        settingsPanel.SetActive(true);
     }
 }

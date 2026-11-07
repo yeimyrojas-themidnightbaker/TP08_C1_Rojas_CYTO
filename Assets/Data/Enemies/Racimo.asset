@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f3768a49352d3741bd70838dc591ad8, type: 3}
   m_Name: Racimo
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDataSo
-  maxHealth: 5
+  maxHealth: 3
   deathVfx: {fileID: 8094843478169940566, guid: 070b535fb6c29414389223145931eecc, type: 3}
   score: 100
   lootMin: 2
@@ -25,7 +25,8 @@ MonoBehaviour:
   windUpTime: 0.4
   timeBetweenShoots: 0.2
   smallCluster: {fileID: 6752592368426781144, guid: 7ab182e9a0d7b364aaf2e8bcff07292e, type: 3}
-  splitTime: 8
+  splitTime: 4
+  clusterRange: 5
   warningTime: 1.9
   splitOffsetX: 2.5
   splitOffsetY: -0.2
@@ -34,3 +35,4 @@ MonoBehaviour:
   specialClip: {fileID: 8300000, guid: 5eed10e8fda131648b7d5cb2147d31bf, type: 3}
   hitFlashColor: {r: 0.92156863, g: 0.25490198, b: 0, a: 0}
   hitFlashDuration: 0.1
+  atlasEntry: {fileID: 11400000, guid: 24f1d383ec229644c93e3e73122f8e92, type: 2}

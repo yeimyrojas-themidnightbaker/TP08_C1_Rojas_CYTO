@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -15,6 +16,7 @@ public class UIMainMenu : MonoBehaviour
     [SerializeField] private CanvasGroup howToPlayPanel;
     [SerializeField] private CanvasGroup creditsPanel;
     [SerializeField] private CanvasGroup shopPanel;
+    [SerializeField] private CanvasGroup atlasPanel;
 
     [Header("Botones")]
     [SerializeField] private Button btnPlay;
@@ -23,11 +25,13 @@ public class UIMainMenu : MonoBehaviour
     [SerializeField] private Button btnHowToPlay;
     [SerializeField] private Button btnShop;
     [SerializeField] private Button btnExit;
+    [SerializeField] private Button btnAtlas;
 
     [SerializeField] private Button btnBackSettings;
     [SerializeField] private Button btnBackCredits;
     [SerializeField] private Button btnBackHowToPlay;
     [SerializeField] private Button btnBackShop;
+    [SerializeField] private Button btnBackAtlas;
 
     private Coroutine currentFade;
 
@@ -37,6 +41,7 @@ public class UIMainMenu : MonoBehaviour
         SetPanel(creditsPanel, false);
         SetPanel(howToPlayPanel, false);
         SetPanel(shopPanel, false);
+        SetPanel(atlasPanel, false);
 
         SetPanel(mainPanel, true);
 
@@ -54,13 +59,17 @@ btnExit.gameObject.SetActive(false);
         btnHowToPlay.onClick.AddListener(OnBtnHowToPlayClicked);
         btnShop.onClick.AddListener(OnBtnShopClicked);
         btnExit.onClick.AddListener(OnBtnExitClicked);
+        btnAtlas.onClick.AddListener(OnBtnAtlasClicked);
 
 
         btnBackSettings.onClick.AddListener(OnBtnBackSettingsClicked);
         btnBackCredits.onClick.AddListener(OnBtnBackCreditsClicked);
         btnBackHowToPlay.onClick.AddListener(OnBtnBackHowToPlayClicked);
         btnBackShop.onClick.AddListener(OnBtnBackShopClicked);
+        btnBackAtlas.onClick.AddListener(OnBtnBackAtlasClicked);
     }
+
+
     private void OnDisable()
     {
         btnPlay.onClick.RemoveListener(OnBtnPlayClicked);
@@ -69,13 +78,16 @@ btnExit.gameObject.SetActive(false);
         btnHowToPlay.onClick.RemoveListener(OnBtnHowToPlayClicked);
         btnShop.onClick.RemoveListener(OnBtnShopClicked);
         btnExit.onClick.RemoveListener(OnBtnExitClicked);
+        btnAtlas.onClick.RemoveListener(OnBtnAtlasClicked);
 
 
         btnBackSettings.onClick.RemoveListener(OnBtnBackSettingsClicked);
         btnBackCredits.onClick.RemoveListener(OnBtnBackCreditsClicked);
         btnBackHowToPlay.onClick.RemoveListener(OnBtnBackHowToPlayClicked);
         btnBackShop.onClick.RemoveListener(OnBtnBackShopClicked);
+        btnBackAtlas.onClick.RemoveListener(OnBtnBackAtlasClicked);
     }
+
 
     private void OnBtnPlayClicked()
     {
@@ -91,6 +103,7 @@ btnExit.gameObject.SetActive(false);
         uiHowToPlay.Open();
     }
     private void OnBtnShopClicked() => SwitchPanel(mainPanel, shopPanel);
+    private void OnBtnAtlasClicked() => SwitchPanel(mainPanel, atlasPanel);
     private void OnBtnExitClicked()
     {
 #if UNITY_EDITOR
@@ -107,6 +120,7 @@ Application.Quit();
     private void OnBtnBackHowToPlayClicked() => SwitchPanel(howToPlayPanel, mainPanel);
     private void OnBtnBackShopClicked() => SwitchPanel(shopPanel, mainPanel);
 
+    private void OnBtnBackAtlasClicked() => SwitchPanel(atlasPanel, mainPanel);
     private void SetPanel(CanvasGroup panel, bool visible)
     {
         panel.alpha = visible ? 1 : 0;

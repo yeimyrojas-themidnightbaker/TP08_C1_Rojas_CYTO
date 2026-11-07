@@ -19,3 +19,4 @@ MonoBehaviour:
   floatSpeed: 0.5
   powerUpType: 0
   powerUpDuration: 15
+  atlasEntry: {fileID: 11400000, guid: bbb84a567091a9742a13d8f7b53506fc, type: 2}

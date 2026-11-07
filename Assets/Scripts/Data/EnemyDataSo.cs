@@ -50,6 +50,8 @@ public class EnemyDataSo : ScriptableObject
 
     [SerializeField] private float splitTime = 8f;
     public float SplitTime => splitTime;
+    [SerializeField] private float clusterRange = 5f;
+    public float ClusterRange => clusterRange;
 
     [SerializeField] private float warningTime = 0.4f;
     public float WarningTime => warningTime;
@@ -73,5 +75,10 @@ public class EnemyDataSo : ScriptableObject
     public Color HitFlashColor => hitFlashColor;
     [SerializeField] private float hitFlashDuration = 0.1f;
     public float HitFlashDuration => hitFlashDuration;
+
+    [Header("AtlasEntry")]
+
+    [SerializeField] private AtlasEntrySo atlasEntry;
+    public AtlasEntrySo AtlasEntry => atlasEntry;
 
 }

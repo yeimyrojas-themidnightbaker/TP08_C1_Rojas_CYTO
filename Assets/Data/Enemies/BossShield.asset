@@ -34,3 +34,4 @@ MonoBehaviour:
   specialClip: {fileID: 8300000, guid: 00dd30470224ee444a0446a44416d4cb, type: 3}
   hitFlashColor: {r: 0.92156863, g: 0.25490198, b: 0, a: 0}
   hitFlashDuration: 0.1
+  atlasEntry: {fileID: 11400000, guid: ba9b413dcc569b74394aa30edf82a322, type: 2}

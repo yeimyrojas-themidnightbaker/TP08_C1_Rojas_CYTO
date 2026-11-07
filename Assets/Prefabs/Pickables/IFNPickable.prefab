@@ -50,6 +50,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PowerUpPickup
   pickableData: {fileID: 11400000, guid: 42e5c2f70de7a8c4b81439cd1b23bb0e, type: 2}
   sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
 --- !u!114 &1194707466539982957
 MonoBehaviour:
   m_ObjectHideFlags: 0

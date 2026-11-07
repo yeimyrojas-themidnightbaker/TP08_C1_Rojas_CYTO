@@ -23,9 +23,10 @@ MonoBehaviour:
   dangerRange: 10
   inflateSize: 1.2
   windUpTime: 0.5
-  timeBetweenShoots: 1.5
+  timeBetweenShoots: 0.5
   smallCluster: {fileID: 0}
   splitTime: 8
+  clusterRange: 5
   warningTime: 0.4
   splitOffsetX: 2.5
   splitOffsetY: 0
@@ -34,3 +35,4 @@ MonoBehaviour:
   specialClip: {fileID: 8300000, guid: 5eed10e8fda131648b7d5cb2147d31bf, type: 3}
   hitFlashColor: {r: 0.91823894, g: 0.2533131, b: 0, a: 0}
   hitFlashDuration: 0.1
+  atlasEntry: {fileID: 0}

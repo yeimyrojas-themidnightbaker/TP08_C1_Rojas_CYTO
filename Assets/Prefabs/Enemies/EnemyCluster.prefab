@@ -605,6 +605,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   enemyData: {fileID: 11400000, guid: 2f90828e39eb4a1438ca9c690ee59faa, type: 2}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
 --- !u!114 &1097498601143973515
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -638,6 +639,9 @@ MonoBehaviour:
   spriteRenderer: {fileID: 1511223701575747916}
   sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
   animator: {fileID: 7793464199103295775}
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!114 &1434376202242384533
 MonoBehaviour:
   m_ObjectHideFlags: 0

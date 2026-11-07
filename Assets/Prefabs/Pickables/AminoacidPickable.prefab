@@ -50,6 +50,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AminoacidPickable
   pickableData: {fileID: 11400000, guid: a7bb3ce2d6d66ab419ab3790a9f27959, type: 2}
   sfxEvent: {fileID: 11400000, guid: 30bb06789a5b5b7489eabd121749f6d5, type: 2}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
   runProgressData: {fileID: 11400000, guid: ca6fbf48124e8814da0b7c8401b9a007, type: 2}
 --- !u!114 &-2208775340326137400
 MonoBehaviour:

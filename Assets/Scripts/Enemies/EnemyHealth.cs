@@ -4,6 +4,8 @@ using UnityEngine.Events;
 public class EnemyHealth : MonoBehaviour
 {
     [SerializeField] private EnemyDataSo enemyData;
+    [SerializeField] private SaveDataSo saveData;
+
     private int currentHealth;
     public int CurrentHealth => currentHealth;
     public int MaxHealth => enemyData.MaxHealth;
@@ -35,6 +37,11 @@ public class EnemyHealth : MonoBehaviour
     }
     private void Die()
     {
+        if(enemyData.AtlasEntry != null)
+        {
+            saveData.MarkDiscovered(enemyData.AtlasEntry);
+        }
+
         OnDied?.Invoke();
         if (enemyData.DeathVfx != null)
         {

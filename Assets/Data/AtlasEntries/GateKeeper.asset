@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8430ac498c2c5a2478e060996d6a710f, type: 3}
+  m_Name: GateKeeper
+  m_EditorClassIdentifier: Assembly-CSharp::AtlasEntrySo
+  entryType: 8
+  entryIcon: {fileID: -5582386158079241228, guid: 0f4da014b98be594abe362863fd9f8ad, type: 3}
+  displayName: Helper T Cell
+  description: "Helper T cells can\u2019t see bacteria on their own: they need a
+    macrophage to present an antigen. Once it recognizes the fragment, the T cell
+    activates and coordinates the attack, opening the way forward."
+  gameHint: Opens the gate with the antigen.

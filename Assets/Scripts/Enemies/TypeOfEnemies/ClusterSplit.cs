@@ -7,13 +7,25 @@ public class ClusterSplit : MonoBehaviour
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private SfxEventSo sfxEvent;
     [SerializeField] private Animator animator;
+    [SerializeField] private LayerMask playerLayer;
 
-    private void Start()
+    private bool hasStarted;
+
+    private void Update()
     {
-        StartCoroutine(SplitCoroutine());
+        if (!hasStarted)
+        {
+            Collider2D hit = Physics2D.OverlapCircle(transform.position, enemyData.ClusterRange, playerLayer);
+            if (hit != null)
+            {
+                hasStarted = true;
+                StartCoroutine(SplitCoroutine());
+            }
+        }
     }
     private IEnumerator SplitCoroutine()
     {
+
         yield return new WaitForSeconds(enemyData.SplitTime - enemyData.WarningTime);
         if (animator != null)
         {

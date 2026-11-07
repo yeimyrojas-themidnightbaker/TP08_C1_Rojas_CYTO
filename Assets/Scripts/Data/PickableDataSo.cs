@@ -21,4 +21,8 @@ public class PickableDataSo : ScriptableObject
     public PowerUpType PowerUpType => powerUpType;
     [SerializeField] private float powerUpDuration = 15f;
     public float PowerUpDuration => powerUpDuration;
+
+    [Header("AtlasEntry")]
+    [SerializeField] private AtlasEntrySo atlasEntry;
+    public AtlasEntrySo AtlasEntry => atlasEntry;
 }

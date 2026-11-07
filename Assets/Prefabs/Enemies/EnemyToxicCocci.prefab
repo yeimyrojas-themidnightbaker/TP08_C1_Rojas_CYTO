@@ -254,6 +254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   enemyData: {fileID: 11400000, guid: 427a6fc1b88a7cd47974d7fb4654c477, type: 2}
+  saveData: {fileID: 11400000, guid: 2ff073ed9450479438cbad05c780b3f1, type: 2}
 --- !u!114 &2237321927993049461
 MonoBehaviour:
   m_ObjectHideFlags: 0
