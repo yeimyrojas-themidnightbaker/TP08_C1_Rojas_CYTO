@@ -19,7 +19,7 @@ MonoBehaviour:
   lootMax: 1
   lootPrefab: {fileID: 229549260235402249, guid: 13ed0691aa0b0004a8f70a353e1a2ce2, type: 3}
   lootSpread: 1.5
-  moveSpeed: 5
+  moveSpeed: 3.5
   dangerRange: 6
   inflateSize: 1.3
   windUpTime: 0.4
