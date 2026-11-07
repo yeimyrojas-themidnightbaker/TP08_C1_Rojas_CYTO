@@ -60,7 +60,7 @@ public class AntigenGate : MonoBehaviour
             return;
         if (!runProgressData.HasAntigen)
         {
-            antigenText.text = "Necesitas un antigeno";
+            antigenText.text = "Bring me the antigen";
             return;
         }
         antigenText.text = "";

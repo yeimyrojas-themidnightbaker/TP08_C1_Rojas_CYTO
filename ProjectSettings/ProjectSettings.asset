@@ -16,7 +16,7 @@ PlayerSettings:
   productName: "CYT\xD8"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.245, g: 0.1088889, b: 0.17694445, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.0982951, g: 0.11548055, b: 0.44025147, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -44,7 +44,7 @@ PlayerSettings:
     duration: 2
   - logo: {fileID: 2859167382181498298, guid: 14bfe13139c27084e9851e721006c4a9, type: 3}
     duration: 2
-  - logo: {fileID: 2512076350645997500, guid: faba7235589195744967454402c6c3c3, type: 3}
+  - logo: {fileID: 1071620936533233086, guid: 013ee706715aa5f4591797537ce9c438, type: 3}
     duration: 2
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}

@@ -26,12 +26,12 @@ btnExit.gameObject.SetActive(false);
         if (gameResultsData.Won)
         {
             backgroundImage.sprite = spriteWin;
-            winText.text = "InfeccionEliminada";
+            winText.text = "Infection eliminated";
         }
         else
         {
             backgroundImage.sprite = spriteLose;
-            winText.text = "El macrofago cayo";
+            winText.text = "Macrophage Down";
         }
         ShowScore();
     }
@@ -52,11 +52,11 @@ btnExit.gameObject.SetActive(false);
     private void ShowScore()
     {
         string text = "Score: " + runProgressData.CurrentScore;
-        text += "\nRecord " + saveData.BestScore;
+        text += "\nRecord: " + saveData.BestScore;
         text += "\nAminoacids " + runProgressData.CurrentAminoacid;
         if(saveData.IsNewRecord)
         {
-            text += "\n Nuevo record";
+            text += "\n New record";
         }
         if(gameResultsData.Won)
         {
