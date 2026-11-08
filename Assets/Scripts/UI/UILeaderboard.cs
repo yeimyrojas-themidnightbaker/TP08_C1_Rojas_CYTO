@@ -1,6 +1,4 @@
-using PlayFab;
 using PlayFab.ProgressionModels;
-using System;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -16,18 +14,23 @@ public class UILeaderboard : MonoBehaviour
     {
         statusText.text = "Loading records...";
         playFab.Login();
-        playFab.RequestLeaderboard();
+        if (!playFab.IsSubmittingScore)
+        {
+            playFab.RequestLeaderboard();
+        }
     }
     private void OnEnable()
     {
         playFab.OnLoggedIn += HandleLoggedIn;
         playFab.OnLeaderboardLoaded += HandleLeaderboardLoaded;
+        playFab.OnScoreSubmittedEvent += HandleScoreSubmitted;
     }
 
     private void OnDisable()
     {
         playFab.OnLoggedIn -= HandleLoggedIn;
         playFab.OnLeaderboardLoaded -= HandleLeaderboardLoaded;
+        playFab.OnScoreSubmittedEvent -= HandleScoreSubmitted;
 
     }
 
@@ -42,10 +45,20 @@ public class UILeaderboard : MonoBehaviour
             Destroy(child.gameObject);
         statusText.text = entries.Count == 0 ? "No records yet" : "";
 
-        foreach(EntityLeaderboardEntry entry in entries)
+        foreach (EntityLeaderboardEntry entry in entries)
         {
             UILeaderboardRow row = Instantiate(rowPrefab, rowContainer);
             row.SetUp(entry);
         }
+    }
+
+    private void HandleScoreSubmitted()
+    {
+        Invoke(nameof(RequestLeaderboardDelayed), 1.5f);
+    }
+
+    private void RequestLeaderboardDelayed()
+    {
+        playFab.RequestLeaderboard();
     }
 }

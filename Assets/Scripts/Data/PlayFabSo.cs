@@ -14,8 +14,17 @@ public class PlayFabSo : ScriptableObject
 
     private const int LeaderboardSize = 10;
 
+    private bool isSubmittingScore;
+    public bool IsSubmittingScore => isSubmittingScore;
+
     public event UnityAction OnLoggedIn;
     public event UnityAction<List<Progression.EntityLeaderboardEntry>> OnLeaderboardLoaded;
+    public event UnityAction OnScoreSubmittedEvent;
+
+    private void OnEnable()
+    {
+        isSubmittingScore = false;
+    }
 
     private string GetPlayerId()
     {
@@ -61,12 +70,23 @@ public class PlayFabSo : ScriptableObject
             new Progression.StatisticUpdate{Name = BestScoreStat, Scores = new List<string> {score.ToString()}}
         }
         };
-        PlayFabProgressionAPI.UpdateStatistics(request, OnScoreSubmitted, OnPlayFabError);
+
+        isSubmittingScore = true;
+        PlayFabProgressionAPI.UpdateStatistics(request, OnScoreSubmitted, OnSubmitError);
     }
 
     private void OnScoreSubmitted(Progression.UpdateStatisticsResponse result)
     {
+        isSubmittingScore = false;
         Debug.Log("Score sent");
+        OnScoreSubmittedEvent?.Invoke();
+    }
+
+    private void OnSubmitError(PlayFabError error)
+    {
+        isSubmittingScore = false;
+        Debug.LogWarning(error.GenerateErrorReport());
+        OnScoreSubmittedEvent?.Invoke();
     }
 
     public void RequestLeaderboard()
