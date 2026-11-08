@@ -1500,6 +1500,14 @@ PrefabInstance:
       value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 2004534332780232903, guid: 8b4f7577b0735434ba2db74bb511a0a7, type: 3}
+      propertyPath: m_margin.x
+      value: 43.759033
+      objectReference: {fileID: 0}
+    - target: {fileID: 2004534332780232903, guid: 8b4f7577b0735434ba2db74bb511a0a7, type: 3}
+      propertyPath: m_margin.z
+      value: -222.07666
+      objectReference: {fileID: 0}
+    - target: {fileID: 2004534332780232903, guid: 8b4f7577b0735434ba2db74bb511a0a7, type: 3}
       propertyPath: m_fontAsset
       value: 
       objectReference: {fileID: 11400000, guid: 6f352586417089f47b44b474733cd0d4, type: 2}
@@ -1518,6 +1526,10 @@ PrefabInstance:
     - target: {fileID: 2235224592061889788, guid: 8b4f7577b0735434ba2db74bb511a0a7, type: 3}
       propertyPath: m_Name
       value: LeaderboardPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 2330778973278887274, guid: 8b4f7577b0735434ba2db74bb511a0a7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -27
       objectReference: {fileID: 0}
     - target: {fileID: 5148869365259573728, guid: 8b4f7577b0735434ba2db74bb511a0a7, type: 3}
       propertyPath: m_Pivot.x
