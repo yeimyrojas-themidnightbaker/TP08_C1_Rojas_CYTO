@@ -146,6 +146,7 @@ Link itch.io: https://yeimy-rojas-midnightbaker.itch.io/cyto
 Contact:
 Yeimy Rojas — The Midnight Baker.
 https://www.artstation.com/yeimy24401
+yeimy.rojas.24401@gmail.com
 www.linkedin.com/in/yeimy-alexandra-rojas-castellanos-midnightbaker
 https://orcid.org/0009-0000-7481-0223
 
