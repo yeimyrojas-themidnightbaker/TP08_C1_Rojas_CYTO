@@ -46,7 +46,7 @@ public class UIPauseMenu : MonoBehaviour
         btnHowToPlay.onClick.RemoveListener(OnBtnHowToPlayClicked);
         btnBackHowToPlay.onClick.RemoveListener(OnBtnBackHowToPlayClicked);
         btnSettings.onClick.RemoveListener(OnBtnSettingsClicked);
-        btnBackSettings.onClick.AddListener(OnBtnBackSettingsClicked);
+        btnBackSettings.onClick.RemoveListener(OnBtnBackSettingsClicked);
     }
 
 

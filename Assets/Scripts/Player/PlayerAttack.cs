@@ -65,7 +65,7 @@ public class PlayerAttack : MonoBehaviour
             size = new Vector2(size.y, size.x);
             direction = AttackDirection.Up;
         }
-        else if (AnyKeyHeld(playerData.DownKeys) && !playerMovement.IsGrounded)
+        else if (AnyKeyHeld(playerData.DownKeys))
         {
             center = attackPointDown.position;
             size = new Vector2(size.y, size.x);
