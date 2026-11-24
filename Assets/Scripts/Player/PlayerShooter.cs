@@ -58,6 +58,8 @@ public class PlayerShooter : MonoBehaviour
         {
             if (hit.TryGetComponent<EnemyHealth>(out EnemyHealth enemyHealth))
             {
+                // Suggestion: El Respiratory Burst (y el proyectil ROS) ignoran playerPowerUps.IsDamageBoosted, solo el látigo de PlayerAttack lo aplica.
+                // Si la idea es que el pickable IFN aumente el daño del jugador, aplicalo en los tres ataques.
                 enemyHealth.TakeDamage(playerData.RingDamage);
             }
         }

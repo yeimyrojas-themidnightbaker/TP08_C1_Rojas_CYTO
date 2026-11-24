@@ -1,3 +1,4 @@
+// Suggestion: using System no se usa en este archivo, borralo.
 using System;
 using UnityEngine;
 using UnityEngine.UI;
@@ -46,6 +47,8 @@ public class UIPauseMenu : MonoBehaviour
         btnHowToPlay.onClick.RemoveListener(OnBtnHowToPlayClicked);
         btnBackHowToPlay.onClick.RemoveListener(OnBtnBackHowToPlayClicked);
         btnSettings.onClick.RemoveListener(OnBtnSettingsClicked);
+        // Bug: En OnDisable se vuelve a hacer AddListener en vez de RemoveListener sobre btnBackSettings.
+        // Cada vez que el objeto se deshabilita y vuelve a habilitarse se suma un listener más y OnBtnBackSettingsClicked corre N veces. Cambialo por RemoveListener.
         btnBackSettings.onClick.AddListener(OnBtnBackSettingsClicked);
     }
 

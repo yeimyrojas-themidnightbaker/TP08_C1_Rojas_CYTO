@@ -78,6 +78,7 @@ public class BiofilmBoss : MonoBehaviour
                 break;
             case BossState.Defeated:
                 biofilmWall.SetActive(false);
+                // Suggestion: animator tiene null check en el caso Exposed pero animatorBody no. Elegí un criterio y aplicalo igual en los dos.
                 animatorBody.Play(AnimatorStates.BossBodyCollapse);
                 OnBossDefeated?.Invoke();
                 break;
@@ -86,6 +87,9 @@ public class BiofilmBoss : MonoBehaviour
 
     public void StartFight()
     {
+        // Bug: StartFight fuerza el estado Shielded aunque los escudos ya se hayan roto.
+        // Si el jugador rompe los 5 escudos antes de entrar al trigger de la arena (por ejemplo con el disparo ROS), HandleShieldDied pasa a Exposed y después este llamado vuelve a Shielded: coreCollider queda deshabilitado sin escudos que lo reabran.
+        // Ignorá el daño a los escudos mientras state == Waiting o, al arrancar, pasá a Exposed si shieldsRemaining <= 0.
         ChangeState(BossState.Shielded);
     }
 }

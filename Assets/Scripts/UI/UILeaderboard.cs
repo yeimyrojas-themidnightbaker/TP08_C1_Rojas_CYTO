@@ -54,6 +54,7 @@ public class UILeaderboard : MonoBehaviour
 
     private void HandleScoreSubmitted()
     {
+        // Suggestion: 1.5f es un número mágico. Pasalo a una constante o al PlayFabSo.
         Invoke(nameof(RequestLeaderboardDelayed), 1.5f);
     }
 

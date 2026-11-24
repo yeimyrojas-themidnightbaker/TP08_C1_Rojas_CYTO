@@ -60,6 +60,7 @@ public class AntigenGate : MonoBehaviour
             return;
         if (!runProgressData.HasAntigen)
         {
+            // Suggestion: Texto hardcodeado. Tenés UIDataSo y AtlasEntrySo para textos; movelo a un SO o a una constante.
             antigenText.text = "Bring me the antigen";
             return;
         }

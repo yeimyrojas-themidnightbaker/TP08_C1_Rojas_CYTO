@@ -60,6 +60,8 @@ public class SaveDataSo : ScriptableObject
     }
     public bool HasUpgrade(UpgradeType upgrade)
     {
+        // Suggestion: El bloque de llaves suelto y el if/else se reducen a return PlayerPrefs.GetInt(KeyOf(upgrade), 0) == 1;
+        // Lo mismo en HasDiscovered.
         int savedValue = PlayerPrefs.GetInt(KeyOf(upgrade), 0);
         {
             if (savedValue == 1)

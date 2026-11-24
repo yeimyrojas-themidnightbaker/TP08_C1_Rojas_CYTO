@@ -26,6 +26,7 @@ btnExit.gameObject.SetActive(false);
         if (gameResultsData.Won)
         {
             backgroundImage.sprite = spriteWin;
+            // Suggestion: Los textos de resultado ("Infection eliminated", "Macrophage Down", "Score: ", etc.) están hardcodeados. Llevalos a constantes o a un SO.
             winText.text = "Infection eliminated";
         }
         else

@@ -16,6 +16,7 @@ public class UIPowerUpTimers : MonoBehaviour
     }
     private void UpdateIcon(Image icon, TimedEffect effect)
     {
+        // Suggestion: Hace SetActive y recalcula los tres íconos cada frame por polling. Podés exponer un evento en PlayerPowerUps al activar/terminar un efecto y solo actualizar fillAmount mientras esté activo.
         icon.gameObject.SetActive(effect.IsActive);
             if (!effect.IsActive)
             return;

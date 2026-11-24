@@ -4,6 +4,7 @@ public class GateAudio : MonoBehaviour
 {
     [SerializeField] private AntigenGate antigenGate;
     [SerializeField] private LevelDataSo levelData;
+    // Suggestion: saveData no se usa en esta clase, sacalo.
     [SerializeField] private SaveDataSo saveData;
     [SerializeField] private SfxEventSo sfxEvent;
 

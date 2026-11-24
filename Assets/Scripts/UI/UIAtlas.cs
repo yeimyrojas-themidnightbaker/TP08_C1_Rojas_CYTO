@@ -20,6 +20,8 @@ public class UIAtlas : MonoBehaviour
         {
             UIAtlasEntry card = Instantiate(cardPrefab, cardContainer);
             card.SetUp(entry, this);
+            // Suggestion: Estas tres líneas no dependen de entry y se ejecutan una vez por cada carta. Sacalas fuera del foreach.
+            // En ShowDetail también se asigna detailImage.sprite dos veces.
             detailName.text = "";
             detailDescription.text = EmptyDetailText;
             detailImage.enabled = false;

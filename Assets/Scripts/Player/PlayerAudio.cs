@@ -14,6 +14,8 @@ public class PlayerAudio : MonoBehaviour
 
     private void Update()
     {
+        // Bug: IsWalking solo mira el input, no la velocidad. Si el jugador se cura (PlayerHealing frena el movimiento) o empuja una pared mientras mantiene A/D, suenan pasos aunque esté quieto.
+        // Usá también la velocidad real (por ejemplo Mathf.Abs(rb.linearVelocity.x) > umbral) o !playerHealing.IsHealing.
         if(playerMovement.IsGrounded && playerMovement.IsWalking)
         {
             stepTimer -= Time.deltaTime;

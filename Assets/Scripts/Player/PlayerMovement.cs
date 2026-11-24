@@ -28,6 +28,8 @@ public class PlayerMovement : MonoBehaviour
     public bool IsGrounded => isGrounded;
     private float facingDirection = 1f;
     public float FacingDirection => facingDirection;
+    // Warning: Compara un float con != 0f (también en la línea 80). Hoy funciona porque horizontalInput vale exactamente -1, 0 o 1,
+    // pero si mañana leés un eje analógico se rompe. Usá Mathf.Abs(horizontalInput) > umbral o Mathf.Approximately.
     public bool IsWalking => horizontalInput != 0f;
 
     public event UnityAction OnJumped;
@@ -172,6 +174,8 @@ public class PlayerMovement : MonoBehaviour
             return playerData.MaxJumps + playerData.ExtraJumps;
         return playerData.MaxJumps;
     }
+    // Suggestion: AnyKeyHeld/AnyKeyDown están copiados también en PlayerAttack, PlayerShooter, PlayerHealing y GameManager.
+    // Movelos a una clase static (por ejemplo InputUtils) y reutilizalos.
     private bool AnyKeyHeld(KeyCode[] keys)
     {
         foreach (KeyCode key in keys)

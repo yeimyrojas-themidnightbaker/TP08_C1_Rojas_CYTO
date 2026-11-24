@@ -5,6 +5,7 @@ public class LevelDataSo : ScriptableObject
     [SerializeField] private float referenceTime = 900f;
     public float ReferenceTime => referenceTime;
     [SerializeField] private int pointsPerSecond = 5;
+    // Suggestion: pointsPerSecond y pointsPerCapsule son int pero se exponen como float, y GameManager después hace RoundToInt. Exponelos como int.
     public float PointsPerSecond => pointsPerSecond;
     [SerializeField] private int pointsPerCapsule = 500;
     public float PointsPerCapsule => pointsPerCapsule;

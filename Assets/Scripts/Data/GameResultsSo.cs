@@ -4,6 +4,7 @@ public class GameResultsSo : ScriptableObject
 {
     private bool won;
     public bool Won => won;
+    // Suggestion: elapsedTime, timeBonusPoints y capsuleBonusPoints no tienen modificador explícito, mientras won sí tiene private. Unificá el criterio.
     float elapsedTime;
     public float ElapsedTime => elapsedTime;
     int timeBonusPoints;

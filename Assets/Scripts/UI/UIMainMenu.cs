@@ -1,3 +1,4 @@
+// Suggestion: using System no se usa en este archivo, borralo.
 using System;
 using System.Collections;
 using UnityEngine;

@@ -37,6 +37,8 @@ public class ClusterSplit : MonoBehaviour
         GameObject smallCluster = enemyData.SmallCluster;
         sfxEvent.Play(enemyData.SpecialClip);
         GameObject right = Instantiate(smallCluster, transform.position + new Vector3(enemyData.SplitOffsetX, enemyData.SplitOffsetY, 0f), Quaternion.identity);
+        // Warning: GetComponent<ClusterPatrol>() sobre un GameObject genérico sin chequeo. Si el prefab asignado en EnemyDataSo.SmallCluster no tiene ClusterPatrol, tira NullReferenceException.
+        // Tipá el campo del SO como ClusterPatrol en vez de GameObject y el Instantiate te devuelve el componente directo.
         right.GetComponent<ClusterPatrol>().SetStartDirection(true);
         GameObject left = Instantiate(smallCluster, transform.position + new Vector3(-enemyData.SplitOffsetX, enemyData.SplitOffsetY, 0f), Quaternion.identity);
         left.GetComponent<ClusterPatrol>().SetStartDirection(false);
